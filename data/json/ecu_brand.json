@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "Bosch"
+  },
+  {
+    "id": 2,
+    "name": "Magneti Marelli"
+  },
+  {
+    "id": 3,
+    "name": "Siemens"
+  },
+  {
+    "id": 4,
+    "name": "Delphi"
+  },
+  {
+    "id": 5,
+    "name": "Continental"
+  },
+  {
+    "id": 6,
+    "name": "Mitsubishi"
+  },
+  {
+    "id": 7,
+    "name": "Keihin"
+  },
+  {
+    "id": 8,
+    "name": "Denso"
+  },
+  {
+    "id": 9,
+    "name": "Melco"
+  },
+  {
+    "id": 10,
+    "name": "Ford"
+  },
+  {
+    "id": 11,
+    "name": "Temic"
+  },
+  {
+    "id": 12,
+    "name": "ACDelco"
+  },
+  {
+    "id": 13,
+    "name": "MBE"
+  },
+  {
+    "id": 14,
+    "name": "EFI"
+  },
+  {
+    "id": 15,
+    "name": "Delco"
+  },
+  {
+    "id": 16,
+    "name": "Motorola"
+  },
+  {
+    "id": 17,
+    "name": "Getrag"
+  },
+  {
+    "id": 18,
+    "name": "Valeo"
+  },
+  {
+    "id": 19,
+    "name": "Sagem"
+  },
+  {
+    "id": 20,
+    "name": "Visteon"
+  },
+  {
+    "id": 21,
+    "name": "Kefico"
+  },
+  {
+    "id": 22,
+    "name": "Hitachi"
+  },
+  {
+    "id": 23,
+    "name": "Transtron"
+  },
+  {
+    "id": 24,
+    "name": "Campi"
+  },
+  {
+    "id": 25,
+    "name": "Rover"
+  },
+  {
+    "id": 26,
+    "name": "Trionic"
+  },
+  {
+    "id": 27,
+    "name": "Denso VEA"
+  },
+  {
+    "id": 28,
+    "name": "CNH KUBOTA"
+  },
+  {
+    "id": 29,
+    "name": "Caterpillar"
+  },
+  {
+    "id": 30,
+    "name": "Phoenix"
+  },
+  {
+    "id": 31,
+    "name": "Heinzmann"
+  },
+  {
+    "id": 32,
+    "name": "Bosch Rexroth"
+  },
+  {
+    "id": 33,
+    "name": "Agco"
+  },
+  {
+    "id": 34,
+    "name": "FUJITSU TEN"
+  },
+  {
+    "id": 35,
+    "name": "SisuTronic"
+  },
+  {
+    "id": 36,
+    "name": "TRW"
+  },
+  {
+    "id": 37,
+    "name": "Nikki"
+  },
+  {
+    "id": 38,
+    "name": "Cummins"
+  },
+  {
+    "id": 39,
+    "name": "Lucas"
+  }
+]

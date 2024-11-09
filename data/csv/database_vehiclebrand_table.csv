@@ -1,0 +1,153 @@
+id,name
+1,Aprilia
+2,Bajaj
+3,Benelli
+4,BMW Motorrad
+5,Can-Am
+6,CF Moto
+7,Ducati
+8,Harley Davidson
+9,Honda
+10,Husqvarna
+11,Indian Motorcycle
+12,Kawasaki
+13,KTM
+14,Piaggio
+15,Polaris
+16,Quadro
+17,Segway
+18,Suzuki
+19,Yamaha
+20,Hyundai Seasall
+21,Johnson
+22,Sea Doo
+23,Suzuki Marine
+24,Volvo Penta
+25,Abarth
+26,Acura
+27,Alfa Romeo
+28,Aston Martin
+29,Audi
+30,Baic
+31,Bentley
+32,BMW
+33,Brilliance
+34,Bugatti
+35,Buick
+36,Cadillac
+37,Caterham
+38,Chery
+39,Chevrolet
+40,Chrysler
+41,Citroen
+42,Cupra
+43,Dacia
+44,Daewoo
+45,Daihatsu
+46,Dodge
+47,Dongfeng
+48,Ferrari
+49,FIAT
+50,Ford
+51,Geely
+52,Genesis
+53,GMC
+54,Great Wall
+55,Holden
+56,Hyundai
+57,Infiniti
+58,Isuzu
+59,Jaguar
+60,Jeep
+61,Kia
+62,Lada
+63,Lamborghini
+64,Lancia
+65,Land Rover
+66,Lexus
+67,Lincoln
+68,Lotus
+69,Lynk & Co
+70,Mahindra
+71,Maserati
+72,Mazda
+73,McLaren
+74,Mercedes-Benz
+75,Microcar
+76,Mini
+77,Mitsubishi
+78,Mitsubishi Fuso
+79,Nissan
+80,Opel
+81,Peugeot
+82,Porsche
+83,Proton
+84,Renault
+85,Rolls Royce
+86,Saab
+87,Saic
+88,Seat
+89,Skoda
+90,Smart
+91,Ssangyong
+92,Subaru
+93,Tata
+94,Toyota
+95,UAZ
+96,Vauxhall
+97,VinFast
+98,Volkswagen
+99,Volvo
+100,Agco
+101,Belarus
+102,Bobcat
+103,Case Ih
+104,Case Ih Construction
+105,Caterpillar
+106,Claas Tractors
+107,Deutz
+108,Doosan
+109,Fendt
+110,Hitachi
+111,JCB
+112,John Deere
+113,John Deere Construction
+114,Komatsu
+115,Kubota
+116,Lamborghini Tractors
+117,Landini Tractors
+118,Manitou
+119,Massey Ferguson
+120,New Holland
+121,Same Tractors
+122,Sennebogen Tractors
+123,Steyr
+124,STILL
+125,Valtra
+126,Volvo Construction
+127,Aebi Schmidt
+128,Agrale
+129,BMC
+130,Cummins
+131,DAF Buses
+132,DAF Truck
+133,Ford Truck
+134,Foton
+135,FPT Industrial
+136,Gaz
+137,Hino
+138,Iveco
+139,Kamaz
+140,MACK
+141,MAN Latin
+142,MAN Truck
+143,MAZ Minsk
+144,Mercedes Truck
+145,Otokar
+146,Peterbilt
+147,Renault Truck
+148,Scania Truck
+149,Temsa
+150,Volvo Buses
+151,Volvo Trucks
+152,Yanmar Construction

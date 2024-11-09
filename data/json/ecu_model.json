@@ -1,0 +1,8512 @@
+[
+  {
+    "id": 1,
+    "name": "MED9.5.10",
+    "brand_id": 1
+  },
+  {
+    "id": 2,
+    "name": "MED9.1",
+    "brand_id": 1
+  },
+  {
+    "id": 3,
+    "name": "MED7.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 4,
+    "name": "ME7.9.10",
+    "brand_id": 1
+  },
+  {
+    "id": 5,
+    "name": "MED17.5",
+    "brand_id": 1
+  },
+  {
+    "id": 6,
+    "name": "MED17.1.6",
+    "brand_id": 1
+  },
+  {
+    "id": 7,
+    "name": "MED17.5.5",
+    "brand_id": 1
+  },
+  {
+    "id": 8,
+    "name": "MEVD17.2.6",
+    "brand_id": 1
+  },
+  {
+    "id": 9,
+    "name": "MED17.7.2",
+    "brand_id": 1
+  },
+  {
+    "id": 10,
+    "name": "MED17.5.1",
+    "brand_id": 1
+  },
+  {
+    "id": 11,
+    "name": "MEV17.2.2",
+    "brand_id": 1
+  },
+  {
+    "id": 12,
+    "name": "MED17.5.2",
+    "brand_id": 1
+  },
+  {
+    "id": 13,
+    "name": "MED17.1",
+    "brand_id": 1
+  },
+  {
+    "id": 14,
+    "name": "ME9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 15,
+    "name": "ME7.7.0",
+    "brand_id": 1
+  },
+  {
+    "id": 16,
+    "name": "MED17.7.1",
+    "brand_id": 1
+  },
+  {
+    "id": 17,
+    "name": "MED7.6.1",
+    "brand_id": 1
+  },
+  {
+    "id": 18,
+    "name": "MED17.0.1",
+    "brand_id": 1
+  },
+  {
+    "id": 19,
+    "name": "MED17.3.5",
+    "brand_id": 1
+  },
+  {
+    "id": 20,
+    "name": "ME7.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 21,
+    "name": "MED17.0",
+    "brand_id": 1
+  },
+  {
+    "id": 22,
+    "name": "ME2.7.2",
+    "brand_id": 1
+  },
+  {
+    "id": 23,
+    "name": "MED17.2",
+    "brand_id": 1
+  },
+  {
+    "id": 24,
+    "name": "MED17.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 25,
+    "name": "ME7.5",
+    "brand_id": 1
+  },
+  {
+    "id": 26,
+    "name": "ME7.1",
+    "brand_id": 1
+  },
+  {
+    "id": 27,
+    "name": "ME7.5.10",
+    "brand_id": 1
+  },
+  {
+    "id": 28,
+    "name": "ME7.5.30",
+    "brand_id": 1
+  },
+  {
+    "id": 29,
+    "name": "ME7.5.20",
+    "brand_id": 1
+  },
+  {
+    "id": 30,
+    "name": "ME7.8",
+    "brand_id": 1
+  },
+  {
+    "id": 31,
+    "name": "MEVD17.2.5",
+    "brand_id": 1
+  },
+  {
+    "id": 32,
+    "name": "ME7.0",
+    "brand_id": 1
+  },
+  {
+    "id": 33,
+    "name": "MEVD17.2.3",
+    "brand_id": 1
+  },
+  {
+    "id": 34,
+    "name": "MED17.2.3",
+    "brand_id": 1
+  },
+  {
+    "id": 35,
+    "name": "ME7.4.6",
+    "brand_id": 1
+  },
+  {
+    "id": 36,
+    "name": "ME17.5.24",
+    "brand_id": 1
+  },
+  {
+    "id": 37,
+    "name": "MEVD17.2.9",
+    "brand_id": 1
+  },
+  {
+    "id": 38,
+    "name": "MED17.7.5",
+    "brand_id": 1
+  },
+  {
+    "id": 39,
+    "name": "ME17.5.6",
+    "brand_id": 1
+  },
+  {
+    "id": 40,
+    "name": "ME17.5.26",
+    "brand_id": 1
+  },
+  {
+    "id": 41,
+    "name": "ME17.5",
+    "brand_id": 1
+  },
+  {
+    "id": 42,
+    "name": "MEV17.2",
+    "brand_id": 1
+  },
+  {
+    "id": 43,
+    "name": "MED17.7.3",
+    "brand_id": 1
+  },
+  {
+    "id": 44,
+    "name": "ME17.5.20",
+    "brand_id": 1
+  },
+  {
+    "id": 45,
+    "name": "ME7.3",
+    "brand_id": 1
+  },
+  {
+    "id": 46,
+    "name": "ME9.2",
+    "brand_id": 1
+  },
+  {
+    "id": 47,
+    "name": "ME2.8.1",
+    "brand_id": 1
+  },
+  {
+    "id": 48,
+    "name": "ME17.7",
+    "brand_id": 1
+  },
+  {
+    "id": 49,
+    "name": "MEV17.4",
+    "brand_id": 1
+  },
+  {
+    "id": 50,
+    "name": "ME17.7.8",
+    "brand_id": 1
+  },
+  {
+    "id": 51,
+    "name": "ME17.9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 52,
+    "name": "MEVD17.2.4",
+    "brand_id": 1
+  },
+  {
+    "id": 53,
+    "name": "MED17.1.62",
+    "brand_id": 1
+  },
+  {
+    "id": 54,
+    "name": "MED17.4.4",
+    "brand_id": 1
+  },
+  {
+    "id": 55,
+    "name": "MEVD17.2.G",
+    "brand_id": 1
+  },
+  {
+    "id": 56,
+    "name": "MEV17.2.1",
+    "brand_id": 1
+  },
+  {
+    "id": 57,
+    "name": "ME17.9.6",
+    "brand_id": 1
+  },
+  {
+    "id": 58,
+    "name": "ME9.2.0",
+    "brand_id": 1
+  },
+  {
+    "id": 59,
+    "name": "ME2.8",
+    "brand_id": 1
+  },
+  {
+    "id": 60,
+    "name": "MEV17.4.2",
+    "brand_id": 1
+  },
+  {
+    "id": 61,
+    "name": "ME17.2.4",
+    "brand_id": 1
+  },
+  {
+    "id": 62,
+    "name": "MEVD17.2",
+    "brand_id": 1
+  },
+  {
+    "id": 63,
+    "name": "MED17.5.20",
+    "brand_id": 1
+  },
+  {
+    "id": 64,
+    "name": "MED17.1.61",
+    "brand_id": 1
+  },
+  {
+    "id": 65,
+    "name": "ME7.9.6",
+    "brand_id": 1
+  },
+  {
+    "id": 66,
+    "name": "MEVD17.2.2",
+    "brand_id": 1
+  },
+  {
+    "id": 67,
+    "name": "MEVD17.2.8",
+    "brand_id": 1
+  },
+  {
+    "id": 68,
+    "name": "M3.8.2",
+    "brand_id": 1
+  },
+  {
+    "id": 69,
+    "name": "ME7.9.9",
+    "brand_id": 1
+  },
+  {
+    "id": 70,
+    "name": "MED17.4.2",
+    "brand_id": 1
+  },
+  {
+    "id": 71,
+    "name": "MED17.3.4",
+    "brand_id": 1
+  },
+  {
+    "id": 72,
+    "name": "ME17.9.11.1",
+    "brand_id": 1
+  },
+  {
+    "id": 73,
+    "name": "ME7.9.4",
+    "brand_id": 1
+  },
+  {
+    "id": 74,
+    "name": "ME17.9.20",
+    "brand_id": 1
+  },
+  {
+    "id": 75,
+    "name": "ME7.4.9",
+    "brand_id": 1
+  },
+  {
+    "id": 76,
+    "name": "MEVD17.2.H",
+    "brand_id": 1
+  },
+  {
+    "id": 77,
+    "name": "MED17.7.7",
+    "brand_id": 1
+  },
+  {
+    "id": 78,
+    "name": "ME17.1.6",
+    "brand_id": 1
+  },
+  {
+    "id": 79,
+    "name": "M2.7",
+    "brand_id": 1
+  },
+  {
+    "id": 80,
+    "name": "M7.4.4",
+    "brand_id": 1
+  },
+  {
+    "id": 81,
+    "name": "M7.9.71",
+    "brand_id": 1
+  },
+  {
+    "id": 82,
+    "name": "M7.9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 83,
+    "name": "MEVD17.2.7",
+    "brand_id": 1
+  },
+  {
+    "id": 84,
+    "name": "MED9.2.2",
+    "brand_id": 1
+  },
+  {
+    "id": 85,
+    "name": "ME17.7.20",
+    "brand_id": 1
+  },
+  {
+    "id": 86,
+    "name": "MEVD17.2.P",
+    "brand_id": 1
+  },
+  {
+    "id": 87,
+    "name": "ME7.6.4",
+    "brand_id": 1
+  },
+  {
+    "id": 88,
+    "name": "MEVD17.4.2",
+    "brand_id": 1
+  },
+  {
+    "id": 89,
+    "name": "MED17.7.3.1",
+    "brand_id": 1
+  },
+  {
+    "id": 90,
+    "name": "ME17.2",
+    "brand_id": 1
+  },
+  {
+    "id": 91,
+    "name": "M7.5",
+    "brand_id": 1
+  },
+  {
+    "id": 92,
+    "name": "ME17.3.0",
+    "brand_id": 1
+  },
+  {
+    "id": 93,
+    "name": "MED17.9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 94,
+    "name": "ME7.8.1",
+    "brand_id": 1
+  },
+  {
+    "id": 95,
+    "name": "ME7.4.7",
+    "brand_id": 1
+  },
+  {
+    "id": 96,
+    "name": "M7.9.4",
+    "brand_id": 1
+  },
+  {
+    "id": 97,
+    "name": "ME17.0.2",
+    "brand_id": 1
+  },
+  {
+    "id": 98,
+    "name": "ML3.1",
+    "brand_id": 1
+  },
+  {
+    "id": 99,
+    "name": "M7.9.1",
+    "brand_id": 1
+  },
+  {
+    "id": 100,
+    "name": "ME7.4.4",
+    "brand_id": 1
+  },
+  {
+    "id": 101,
+    "name": "ME7.7.1",
+    "brand_id": 1
+  },
+  {
+    "id": 102,
+    "name": "ME17.2.42",
+    "brand_id": 1
+  },
+  {
+    "id": 103,
+    "name": "MED9.6.1",
+    "brand_id": 1
+  },
+  {
+    "id": 104,
+    "name": "MED9.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 105,
+    "name": "ME7.9.20",
+    "brand_id": 1
+  },
+  {
+    "id": 106,
+    "name": "MEV9.2",
+    "brand_id": 1
+  },
+  {
+    "id": 107,
+    "name": "MED17.4",
+    "brand_id": 1
+  },
+  {
+    "id": 108,
+    "name": "ME17.8.32",
+    "brand_id": 1
+  },
+  {
+    "id": 109,
+    "name": "ME17.9.1",
+    "brand_id": 1
+  },
+  {
+    "id": 110,
+    "name": "MED9.1.2",
+    "brand_id": 1
+  },
+  {
+    "id": 111,
+    "name": "MED17.9.3",
+    "brand_id": 1
+  },
+  {
+    "id": 112,
+    "name": "MED7.8.1",
+    "brand_id": 1
+  },
+  {
+    "id": 113,
+    "name": "ME17.9.51",
+    "brand_id": 1
+  },
+  {
+    "id": 114,
+    "name": "M7.9.0",
+    "brand_id": 1
+  },
+  {
+    "id": 115,
+    "name": "ME17.9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 116,
+    "name": "M7.9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 117,
+    "name": "ME9.2.2",
+    "brand_id": 1
+  },
+  {
+    "id": 118,
+    "name": "ME17.5.22",
+    "brand_id": 1
+  },
+  {
+    "id": 119,
+    "name": "MEDG17.0",
+    "brand_id": 1
+  },
+  {
+    "id": 120,
+    "name": "ME17.9.21",
+    "brand_id": 1
+  },
+  {
+    "id": 121,
+    "name": "ME9.0",
+    "brand_id": 1
+  },
+  {
+    "id": 122,
+    "name": "ME17.9.55",
+    "brand_id": 1
+  },
+  {
+    "id": 123,
+    "name": "ME17.9.23",
+    "brand_id": 1
+  },
+  {
+    "id": 124,
+    "name": "ME7.9.52",
+    "brand_id": 1
+  },
+  {
+    "id": 125,
+    "name": "ME17.9.64",
+    "brand_id": 1
+  },
+  {
+    "id": 126,
+    "name": "ME9.6.1",
+    "brand_id": 1
+  },
+  {
+    "id": 127,
+    "name": "ME17.6.8",
+    "brand_id": 1
+  },
+  {
+    "id": 128,
+    "name": "MEV17.42",
+    "brand_id": 1
+  },
+  {
+    "id": 129,
+    "name": "MEVD17.4.4",
+    "brand_id": 1
+  },
+  {
+    "id": 130,
+    "name": "MED17.9.63",
+    "brand_id": 1
+  },
+  {
+    "id": 131,
+    "name": "ME17.9.61",
+    "brand_id": 1
+  },
+  {
+    "id": 132,
+    "name": "M7.9.81",
+    "brand_id": 1
+  },
+  {
+    "id": 133,
+    "name": "ME17.2.1",
+    "brand_id": 1
+  },
+  {
+    "id": 134,
+    "name": "ME17.0.3",
+    "brand_id": 1
+  },
+  {
+    "id": 135,
+    "name": "MEVD17.2.K",
+    "brand_id": 1
+  },
+  {
+    "id": 136,
+    "name": "ME17.8.34",
+    "brand_id": 1
+  },
+  {
+    "id": 137,
+    "name": "ME17.9.53",
+    "brand_id": 1
+  },
+  {
+    "id": 138,
+    "name": "ME17.9.5",
+    "brand_id": 1
+  },
+  {
+    "id": 139,
+    "name": "ME9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 140,
+    "name": "MED9.2.1",
+    "brand_id": 1
+  },
+  {
+    "id": 141,
+    "name": "M7.9.52",
+    "brand_id": 1
+  },
+  {
+    "id": 142,
+    "name": "ME7.4.9 CNG",
+    "brand_id": 1
+  },
+  {
+    "id": 143,
+    "name": "ME9.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 144,
+    "name": "ME17.6.95",
+    "brand_id": 1
+  },
+  {
+    "id": 145,
+    "name": "ME7.9.3",
+    "brand_id": 1
+  },
+  {
+    "id": 146,
+    "name": "ME17.6.94",
+    "brand_id": 1
+  },
+  {
+    "id": 147,
+    "name": "ME7.9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 148,
+    "name": "ME17.9.21.1",
+    "brand_id": 1
+  },
+  {
+    "id": 149,
+    "name": "ME17.9.71",
+    "brand_id": 1
+  },
+  {
+    "id": 150,
+    "name": "M7.4.11",
+    "brand_id": 1
+  },
+  {
+    "id": 151,
+    "name": "EDC15C2",
+    "brand_id": 1
+  },
+  {
+    "id": 152,
+    "name": "ME17.8.31",
+    "brand_id": 1
+  },
+  {
+    "id": 153,
+    "name": "MED17.9.30",
+    "brand_id": 1
+  },
+  {
+    "id": 154,
+    "name": "ME17.9.56",
+    "brand_id": 1
+  },
+  {
+    "id": 155,
+    "name": "M7.9.2",
+    "brand_id": 1
+  },
+  {
+    "id": 156,
+    "name": "ME17.8.35",
+    "brand_id": 1
+  },
+  {
+    "id": 157,
+    "name": "MEVD17.8.4",
+    "brand_id": 1
+  },
+  {
+    "id": 158,
+    "name": "ME17.9.58",
+    "brand_id": 1
+  },
+  {
+    "id": 159,
+    "name": "ME17.9.57",
+    "brand_id": 1
+  },
+  {
+    "id": 160,
+    "name": "MED17.8.34",
+    "brand_id": 1
+  },
+  {
+    "id": 161,
+    "name": "MED17.9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 162,
+    "name": "MEV174",
+    "brand_id": 1
+  },
+  {
+    "id": 163,
+    "name": "ME7.9.71",
+    "brand_id": 1
+  },
+  {
+    "id": 164,
+    "name": "ME7.9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 165,
+    "name": "ME17.9.52",
+    "brand_id": 1
+  },
+  {
+    "id": 166,
+    "name": "ME9.6.2",
+    "brand_id": 1
+  },
+  {
+    "id": 167,
+    "name": "ME17.9.11",
+    "brand_id": 1
+  },
+  {
+    "id": 168,
+    "name": "MED17.9.32",
+    "brand_id": 1
+  },
+  {
+    "id": 169,
+    "name": "M7.9.5",
+    "brand_id": 1
+  },
+  {
+    "id": 170,
+    "name": "MED17.8.2",
+    "brand_id": 1
+  },
+  {
+    "id": 171,
+    "name": "M7.9.01",
+    "brand_id": 1
+  },
+  {
+    "id": 172,
+    "name": "MED7.8",
+    "brand_id": 1
+  },
+  {
+    "id": 173,
+    "name": "MED17.9.66",
+    "brand_id": 1
+  },
+  {
+    "id": 174,
+    "name": "ME7.9.51",
+    "brand_id": 1
+  },
+  {
+    "id": 175,
+    "name": "MED17.8.3",
+    "brand_id": 1
+  },
+  {
+    "id": 176,
+    "name": "EDC17CV41",
+    "brand_id": 1
+  },
+  {
+    "id": 177,
+    "name": "MED9.6.2",
+    "brand_id": 1
+  },
+  {
+    "id": 178,
+    "name": "ME17.8.33",
+    "brand_id": 1
+  },
+  {
+    "id": 179,
+    "name": "ME7.9.5",
+    "brand_id": 1
+  },
+  {
+    "id": 180,
+    "name": "MA1.2.3",
+    "brand_id": 1
+  },
+  {
+    "id": 181,
+    "name": "MED17.8.31",
+    "brand_id": 1
+  },
+  {
+    "id": 182,
+    "name": "MED7.4",
+    "brand_id": 1
+  },
+  {
+    "id": 183,
+    "name": "MED7.6.2",
+    "brand_id": 1
+  },
+  {
+    "id": 184,
+    "name": "MEG1.0",
+    "brand_id": 1
+  },
+  {
+    "id": 185,
+    "name": "MEG1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 186,
+    "name": "MED7.5.10",
+    "brand_id": 1
+  },
+  {
+    "id": 187,
+    "name": "ME17.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 188,
+    "name": "MED17.8.32",
+    "brand_id": 1
+  },
+  {
+    "id": 189,
+    "name": "ML4.1",
+    "brand_id": 1
+  },
+  {
+    "id": 190,
+    "name": "ME7.8.2",
+    "brand_id": 1
+  },
+  {
+    "id": 191,
+    "name": "ML1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 192,
+    "name": "MED7.6.3",
+    "brand_id": 1
+  },
+  {
+    "id": 193,
+    "name": "M2.10.1",
+    "brand_id": 1
+  },
+  {
+    "id": 194,
+    "name": "MED7.5.11",
+    "brand_id": 1
+  },
+  {
+    "id": 195,
+    "name": "ME9.2.1",
+    "brand_id": 1
+  },
+  {
+    "id": 196,
+    "name": "EDC17CP45",
+    "brand_id": 1
+  },
+  {
+    "id": 197,
+    "name": "MEG9.8.1",
+    "brand_id": 1
+  },
+  {
+    "id": 198,
+    "name": "EDC17C69",
+    "brand_id": 1
+  },
+  {
+    "id": 199,
+    "name": "EDC17C46",
+    "brand_id": 1
+  },
+  {
+    "id": 200,
+    "name": "EDC16U31",
+    "brand_id": 1
+  },
+  {
+    "id": 201,
+    "name": "EDC16U34",
+    "brand_id": 1
+  },
+  {
+    "id": 202,
+    "name": "EDC16C2",
+    "brand_id": 1
+  },
+  {
+    "id": 203,
+    "name": "EDC17CP20",
+    "brand_id": 1
+  },
+  {
+    "id": 204,
+    "name": "EDC17CP14",
+    "brand_id": 1
+  },
+  {
+    "id": 205,
+    "name": "EDC16C32",
+    "brand_id": 1
+  },
+  {
+    "id": 206,
+    "name": "EDC16CP33",
+    "brand_id": 1
+  },
+  {
+    "id": 207,
+    "name": "EDC17CP46",
+    "brand_id": 1
+  },
+  {
+    "id": 208,
+    "name": "EDC17C50",
+    "brand_id": 1
+  },
+  {
+    "id": 209,
+    "name": "EDC16CP31",
+    "brand_id": 1
+  },
+  {
+    "id": 210,
+    "name": "EDC16U1",
+    "brand_id": 1
+  },
+  {
+    "id": 211,
+    "name": "EDC17CP04",
+    "brand_id": 1
+  },
+  {
+    "id": 212,
+    "name": "EDC16CP34",
+    "brand_id": 1
+  },
+  {
+    "id": 213,
+    "name": "EDC17C10",
+    "brand_id": 1
+  },
+  {
+    "id": 214,
+    "name": "EDC17C59",
+    "brand_id": 1
+  },
+  {
+    "id": 215,
+    "name": "EDC16C1",
+    "brand_id": 1
+  },
+  {
+    "id": 216,
+    "name": "EDC17C06",
+    "brand_id": 1
+  },
+  {
+    "id": 217,
+    "name": "EDC17C49",
+    "brand_id": 1
+  },
+  {
+    "id": 218,
+    "name": "EDC17CP24",
+    "brand_id": 1
+  },
+  {
+    "id": 219,
+    "name": "EDC17C64",
+    "brand_id": 1
+  },
+  {
+    "id": 220,
+    "name": "EDC17U01",
+    "brand_id": 1
+  },
+  {
+    "id": 221,
+    "name": "EDC17CP42",
+    "brand_id": 1
+  },
+  {
+    "id": 222,
+    "name": "EDC16C8",
+    "brand_id": 1
+  },
+  {
+    "id": 223,
+    "name": "EDC17CP11",
+    "brand_id": 1
+  },
+  {
+    "id": 224,
+    "name": "EDC16CP35",
+    "brand_id": 1
+  },
+  {
+    "id": 225,
+    "name": "EDC16C34",
+    "brand_id": 1
+  },
+  {
+    "id": 226,
+    "name": "EDC16C36",
+    "brand_id": 1
+  },
+  {
+    "id": 227,
+    "name": "EDC17C54",
+    "brand_id": 1
+  },
+  {
+    "id": 228,
+    "name": "EDC17CP49",
+    "brand_id": 1
+  },
+  {
+    "id": 229,
+    "name": "EDC16CP36",
+    "brand_id": 1
+  },
+  {
+    "id": 230,
+    "name": "EDC17CP01",
+    "brand_id": 1
+  },
+  {
+    "id": 231,
+    "name": "EDC17CP22",
+    "brand_id": 1
+  },
+  {
+    "id": 232,
+    "name": "EDC17C58",
+    "brand_id": 1
+  },
+  {
+    "id": 233,
+    "name": "EDC17C66",
+    "brand_id": 1
+  },
+  {
+    "id": 234,
+    "name": "EDC16UC40",
+    "brand_id": 1
+  },
+  {
+    "id": 235,
+    "name": "EDC17C74",
+    "brand_id": 1
+  },
+  {
+    "id": 236,
+    "name": "EDC17CP48",
+    "brand_id": 1
+  },
+  {
+    "id": 237,
+    "name": "EDC17C70",
+    "brand_id": 1
+  },
+  {
+    "id": 238,
+    "name": "EDC17C60",
+    "brand_id": 1
+  },
+  {
+    "id": 239,
+    "name": "EDC17C73",
+    "brand_id": 1
+  },
+  {
+    "id": 240,
+    "name": "EDC16C9",
+    "brand_id": 1
+  },
+  {
+    "id": 241,
+    "name": "EDC17CP09",
+    "brand_id": 1
+  },
+  {
+    "id": 242,
+    "name": "EDC16C39",
+    "brand_id": 1
+  },
+  {
+    "id": 243,
+    "name": "EDC17CP57",
+    "brand_id": 1
+  },
+  {
+    "id": 244,
+    "name": "EDC17C43",
+    "brand_id": 1
+  },
+  {
+    "id": 245,
+    "name": "EDC15P+",
+    "brand_id": 1
+  },
+  {
+    "id": 246,
+    "name": "EDC17CP10",
+    "brand_id": 1
+  },
+  {
+    "id": 247,
+    "name": "EDC17C41",
+    "brand_id": 1
+  },
+  {
+    "id": 248,
+    "name": "EDC17C56",
+    "brand_id": 1
+  },
+  {
+    "id": 249,
+    "name": "EDC17C18",
+    "brand_id": 1
+  },
+  {
+    "id": 250,
+    "name": "EDC17CP47",
+    "brand_id": 1
+  },
+  {
+    "id": 251,
+    "name": "EDC17C55",
+    "brand_id": 1
+  },
+  {
+    "id": 252,
+    "name": "EDC16CP39",
+    "brand_id": 1
+  },
+  {
+    "id": 253,
+    "name": "EDC15V",
+    "brand_id": 1
+  },
+  {
+    "id": 254,
+    "name": "EDC15VM+",
+    "brand_id": 1
+  },
+  {
+    "id": 255,
+    "name": "EDC17C45",
+    "brand_id": 1
+  },
+  {
+    "id": 256,
+    "name": "EDC15C0",
+    "brand_id": 1
+  },
+  {
+    "id": 257,
+    "name": "EDC16C35",
+    "brand_id": 1
+  },
+  {
+    "id": 258,
+    "name": "EDC17CP44",
+    "brand_id": 1
+  },
+  {
+    "id": 259,
+    "name": "EDC15C3",
+    "brand_id": 1
+  },
+  {
+    "id": 260,
+    "name": "EDC17CP02",
+    "brand_id": 1
+  },
+  {
+    "id": 261,
+    "name": "EDC15V529(H)",
+    "brand_id": 1
+  },
+  {
+    "id": 262,
+    "name": "EDC17CP05",
+    "brand_id": 1
+  },
+  {
+    "id": 263,
+    "name": "EDC15P",
+    "brand_id": 1
+  },
+  {
+    "id": 264,
+    "name": "EDC17CP54",
+    "brand_id": 1
+  },
+  {
+    "id": 265,
+    "name": "EDC7UC31",
+    "brand_id": 1
+  },
+  {
+    "id": 266,
+    "name": "EDC15C5",
+    "brand_id": 1
+  },
+  {
+    "id": 267,
+    "name": "EDC15VH(F)",
+    "brand_id": 1
+  },
+  {
+    "id": 268,
+    "name": "EDC17C04",
+    "brand_id": 1
+  },
+  {
+    "id": 269,
+    "name": "EDC17C19",
+    "brand_id": 1
+  },
+  {
+    "id": 270,
+    "name": "EDC7C1",
+    "brand_id": 1
+  },
+  {
+    "id": 271,
+    "name": "EDC17CP27",
+    "brand_id": 1
+  },
+  {
+    "id": 272,
+    "name": "EDC16C41",
+    "brand_id": 1
+  },
+  {
+    "id": 273,
+    "name": "EDC15C7",
+    "brand_id": 1
+  },
+  {
+    "id": 274,
+    "name": "EDC15C4",
+    "brand_id": 1
+  },
+  {
+    "id": 275,
+    "name": "EDC15C11",
+    "brand_id": 1
+  },
+  {
+    "id": 276,
+    "name": "EDC15C6",
+    "brand_id": 1
+  },
+  {
+    "id": 277,
+    "name": "EDC17CP74",
+    "brand_id": 1
+  },
+  {
+    "id": 278,
+    "name": "EDC15C2 (MOD)",
+    "brand_id": 1
+  },
+  {
+    "id": 279,
+    "name": "EDC17CV54",
+    "brand_id": 1
+  },
+  {
+    "id": 280,
+    "name": "EDC17C81",
+    "brand_id": 1
+  },
+  {
+    "id": 281,
+    "name": "EDC15C13",
+    "brand_id": 1
+  },
+  {
+    "id": 282,
+    "name": "MS5",
+    "brand_id": 1
+  },
+  {
+    "id": 283,
+    "name": "EDC16C31",
+    "brand_id": 1
+  },
+  {
+    "id": 284,
+    "name": "M7",
+    "brand_id": 1
+  },
+  {
+    "id": 285,
+    "name": "EDC17U05",
+    "brand_id": 1
+  },
+  {
+    "id": 286,
+    "name": "EDC16C3",
+    "brand_id": 1
+  },
+  {
+    "id": 287,
+    "name": "EDC7C3",
+    "brand_id": 1
+  },
+  {
+    "id": 288,
+    "name": "EDC M7",
+    "brand_id": 1
+  },
+  {
+    "id": 289,
+    "name": "EDC15P++",
+    "brand_id": 1
+  },
+  {
+    "id": 290,
+    "name": "EDG15C",
+    "brand_id": 1
+  },
+  {
+    "id": 291,
+    "name": "EDC7C32",
+    "brand_id": 1
+  },
+  {
+    "id": 292,
+    "name": "EDC17CP68",
+    "brand_id": 1
+  },
+  {
+    "id": 293,
+    "name": "EDC16C10",
+    "brand_id": 1
+  },
+  {
+    "id": 294,
+    "name": "EDC15C9",
+    "brand_id": 1
+  },
+  {
+    "id": 295,
+    "name": "EDC17C08",
+    "brand_id": 1
+  },
+  {
+    "id": 296,
+    "name": "EDC17C57",
+    "brand_id": 1
+  },
+  {
+    "id": 297,
+    "name": "EDC17CP37",
+    "brand_id": 1
+  },
+  {
+    "id": 298,
+    "name": "EDC17C84",
+    "brand_id": 1
+  },
+  {
+    "id": 299,
+    "name": "EDC17CV88",
+    "brand_id": 1
+  },
+  {
+    "id": 300,
+    "name": "EDC17C11",
+    "brand_id": 1
+  },
+  {
+    "id": 301,
+    "name": "EDC17CV44",
+    "brand_id": 1
+  },
+  {
+    "id": 302,
+    "name": "EDC17CP19",
+    "brand_id": 1
+  },
+  {
+    "id": 303,
+    "name": "EDC17CP06",
+    "brand_id": 1
+  },
+  {
+    "id": 304,
+    "name": "EDC17CP58",
+    "brand_id": 1
+  },
+  {
+    "id": 305,
+    "name": "EDC17CP50",
+    "brand_id": 1
+  },
+  {
+    "id": 306,
+    "name": "EDC17CP21",
+    "brand_id": 1
+  },
+  {
+    "id": 307,
+    "name": "EDC17CP18",
+    "brand_id": 1
+  },
+  {
+    "id": 308,
+    "name": "EDC17C72",
+    "brand_id": 1
+  },
+  {
+    "id": 309,
+    "name": "EDC17C53",
+    "brand_id": 1
+  },
+  {
+    "id": 310,
+    "name": "EDC17C42",
+    "brand_id": 1
+  },
+  {
+    "id": 311,
+    "name": "EDC17CP07",
+    "brand_id": 1
+  },
+  {
+    "id": 312,
+    "name": "EDC17CP65",
+    "brand_id": 1
+  },
+  {
+    "id": 313,
+    "name": "EDC7C4",
+    "brand_id": 1
+  },
+  {
+    "id": 314,
+    "name": "EDC17CP16",
+    "brand_id": 1
+  },
+  {
+    "id": 315,
+    "name": "EDC16C7",
+    "brand_id": 1
+  },
+  {
+    "id": 316,
+    "name": "EDC17CV42",
+    "brand_id": 1
+  },
+  {
+    "id": 317,
+    "name": "MS6.2",
+    "brand_id": 1
+  },
+  {
+    "id": 318,
+    "name": "EDC17CP55",
+    "brand_id": 1
+  },
+  {
+    "id": 319,
+    "name": "EDC17CV43",
+    "brand_id": 1
+  },
+  {
+    "id": 320,
+    "name": "EDC17C83",
+    "brand_id": 1
+  },
+  {
+    "id": 321,
+    "name": "EDC17C63",
+    "brand_id": 1
+  },
+  {
+    "id": 322,
+    "name": "EGC4.0",
+    "brand_id": 1
+  },
+  {
+    "id": 323,
+    "name": "EDC17CP52",
+    "brand_id": 1
+  },
+  {
+    "id": 324,
+    "name": "EDC17C79",
+    "brand_id": 1
+  },
+  {
+    "id": 325,
+    "name": "EDC16CP42",
+    "brand_id": 1
+  },
+  {
+    "id": 326,
+    "name": "EDC16C42",
+    "brand_id": 1
+  },
+  {
+    "id": 327,
+    "name": "EDC17C76",
+    "brand_id": 1
+  },
+  {
+    "id": 328,
+    "name": "EDC16C37",
+    "brand_id": 1
+  },
+  {
+    "id": 329,
+    "name": "EDC17C47",
+    "brand_id": 1
+  },
+  {
+    "id": 330,
+    "name": "MS6.4",
+    "brand_id": 1
+  },
+  {
+    "id": 331,
+    "name": "EDC15VM+M",
+    "brand_id": 1
+  },
+  {
+    "id": 332,
+    "name": "EDC17CV56",
+    "brand_id": 1
+  },
+  {
+    "id": 333,
+    "name": "MS6.3",
+    "brand_id": 1
+  },
+  {
+    "id": 334,
+    "name": "EDC15C8",
+    "brand_id": 1
+  },
+  {
+    "id": 335,
+    "name": "EDC15V+1",
+    "brand_id": 1
+  },
+  {
+    "id": 336,
+    "name": "EDC17C62",
+    "brand_id": 1
+  },
+  {
+    "id": 337,
+    "name": "EDC17CP51",
+    "brand_id": 1
+  },
+  {
+    "id": 338,
+    "name": "EDC17CV53",
+    "brand_id": 1
+  },
+  {
+    "id": 339,
+    "name": "EDG16C33",
+    "brand_id": 1
+  },
+  {
+    "id": 340,
+    "name": "EDC17CV82",
+    "brand_id": 1
+  },
+  {
+    "id": 341,
+    "name": "MS6.1",
+    "brand_id": 1
+  },
+  {
+    "id": 342,
+    "name": "EDC17C61",
+    "brand_id": 1
+  },
+  {
+    "id": 343,
+    "name": "EDC17CV52",
+    "brand_id": 1
+  },
+  {
+    "id": 344,
+    "name": "EDC17CV45",
+    "brand_id": 1
+  },
+  {
+    "id": 345,
+    "name": "VD1CC001",
+    "brand_id": 1
+  },
+  {
+    "id": 346,
+    "name": "EDC16C4",
+    "brand_id": 1
+  },
+  {
+    "id": 347,
+    "name": "EDC17CP60",
+    "brand_id": 1
+  },
+  {
+    "id": 348,
+    "name": "EDC15C12",
+    "brand_id": 1
+  },
+  {
+    "id": 349,
+    "name": "MD1CS005",
+    "brand_id": 1
+  },
+  {
+    "id": 350,
+    "name": "EDC17CP15",
+    "brand_id": 1
+  },
+  {
+    "id": 351,
+    "name": "EDC15V51(H)",
+    "brand_id": 1
+  },
+  {
+    "id": 352,
+    "name": "ME7 CNG0 (ME7-GAS1)",
+    "brand_id": 1
+  },
+  {
+    "id": 353,
+    "name": "MIU 32MIU1.E",
+    "brand_id": 2
+  },
+  {
+    "id": 354,
+    "name": "IAW 15P",
+    "brand_id": 2
+  },
+  {
+    "id": 355,
+    "name": "IAW 7SM",
+    "brand_id": 2
+  },
+  {
+    "id": 356,
+    "name": "IAW 7SM.A3",
+    "brand_id": 2
+  },
+  {
+    "id": 357,
+    "name": "IAW 5DM",
+    "brand_id": 2
+  },
+  {
+    "id": 358,
+    "name": "IAW 5AM",
+    "brand_id": 2
+  },
+  {
+    "id": 359,
+    "name": "MIU G3 32M3G1",
+    "brand_id": 2
+  },
+  {
+    "id": 360,
+    "name": "IAW 11MP",
+    "brand_id": 2
+  },
+  {
+    "id": 361,
+    "name": "MSE 3.7",
+    "brand_id": 3
+  },
+  {
+    "id": 362,
+    "name": "MSE3.7 R/Hx",
+    "brand_id": 3
+  },
+  {
+    "id": 363,
+    "name": "IAW 7SM HW320",
+    "brand_id": 2
+  },
+  {
+    "id": 364,
+    "name": "MSE2",
+    "brand_id": 1
+  },
+  {
+    "id": 365,
+    "name": "MSE6.0",
+    "brand_id": 1
+  },
+  {
+    "id": 366,
+    "name": "IAW 32MIU 1",
+    "brand_id": 2
+  },
+  {
+    "id": 367,
+    "name": "MT05.3",
+    "brand_id": 4
+  },
+  {
+    "id": 368,
+    "name": "ME9",
+    "brand_id": 1
+  },
+  {
+    "id": 369,
+    "name": "ME17.2.4 BMS-MP",
+    "brand_id": 1
+  },
+  {
+    "id": 370,
+    "name": "ME17.2 BMS-X",
+    "brand_id": 1
+  },
+  {
+    "id": 371,
+    "name": "ME17.2.42 BMS-O",
+    "brand_id": 1
+  },
+  {
+    "id": 372,
+    "name": "ME9 BMSK",
+    "brand_id": 1
+  },
+  {
+    "id": 373,
+    "name": "ME17.8.5",
+    "brand_id": 1
+  },
+  {
+    "id": 374,
+    "name": "MG1CA920",
+    "brand_id": 1
+  },
+  {
+    "id": 375,
+    "name": "VDO M3C",
+    "brand_id": 5
+  },
+  {
+    "id": 376,
+    "name": "MSE3.7",
+    "brand_id": 3
+  },
+  {
+    "id": 377,
+    "name": "US6.0",
+    "brand_id": 1
+  },
+  {
+    "id": 378,
+    "name": "MED17.8.10",
+    "brand_id": 1
+  },
+  {
+    "id": 379,
+    "name": "ME17.U.6",
+    "brand_id": 1
+  },
+  {
+    "id": 380,
+    "name": "MT05",
+    "brand_id": 4
+  },
+  {
+    "id": 381,
+    "name": "IAW 5SM",
+    "brand_id": 2
+  },
+  {
+    "id": 382,
+    "name": "Himeji",
+    "brand_id": 6
+  },
+  {
+    "id": 383,
+    "name": "M3C",
+    "brand_id": 3
+  },
+  {
+    "id": 384,
+    "name": "M3D",
+    "brand_id": 5
+  },
+  {
+    "id": 385,
+    "name": "IAW 59M",
+    "brand_id": 2
+  },
+  {
+    "id": 386,
+    "name": "IAW 15M",
+    "brand_id": 2
+  },
+  {
+    "id": 387,
+    "name": "M4D",
+    "brand_id": 5
+  },
+  {
+    "id": 388,
+    "name": "MT21M",
+    "brand_id": 4
+  },
+  {
+    "id": 389,
+    "name": "HD J1850",
+    "brand_id": 4
+  },
+  {
+    "id": 390,
+    "name": "HD CAN",
+    "brand_id": 4
+  },
+  {
+    "id": 391,
+    "name": "38770-MFN-F01",
+    "brand_id": 7
+  },
+  {
+    "id": 392,
+    "name": "38770-MFN-D01",
+    "brand_id": 7
+  },
+  {
+    "id": 393,
+    "name": "38770-MKJ-D02",
+    "brand_id": 7
+  },
+  {
+    "id": 394,
+    "name": "38770-MGC-D32",
+    "brand_id": 7
+  },
+  {
+    "id": 395,
+    "name": "38770-MGC-A42",
+    "brand_id": 7
+  },
+  {
+    "id": 396,
+    "name": "38770-MGC-A73",
+    "brand_id": 7
+  },
+  {
+    "id": 397,
+    "name": "38770-MFP-B01",
+    "brand_id": 7
+  },
+  {
+    "id": 398,
+    "name": "38770-MFM-702",
+    "brand_id": 7
+  },
+  {
+    "id": 399,
+    "name": "38770-MFM-651",
+    "brand_id": 7
+  },
+  {
+    "id": 400,
+    "name": "38770-MGZ-D02",
+    "brand_id": 7
+  },
+  {
+    "id": 401,
+    "name": "38770-MGZ-A03",
+    "brand_id": 7
+  },
+  {
+    "id": 402,
+    "name": "38770-MGZ-C02",
+    "brand_id": 7
+  },
+  {
+    "id": 403,
+    "name": "38770-MGZ-C03",
+    "brand_id": 7
+  },
+  {
+    "id": 404,
+    "name": "38770-MJW-B41",
+    "brand_id": 7
+  },
+  {
+    "id": 405,
+    "name": "38770-MJW-D51",
+    "brand_id": 7
+  },
+  {
+    "id": 406,
+    "name": "38770-MJW-D91",
+    "brand_id": 7
+  },
+  {
+    "id": 407,
+    "name": "38770-MGM-D11",
+    "brand_id": 7
+  },
+  {
+    "id": 408,
+    "name": "38770-MGM-G11",
+    "brand_id": 7
+  },
+  {
+    "id": 409,
+    "name": "38770-MJE-D41",
+    "brand_id": 7
+  },
+  {
+    "id": 410,
+    "name": "38770-MJE-G52",
+    "brand_id": 7
+  },
+  {
+    "id": 411,
+    "name": "38770-MJE-TB1",
+    "brand_id": 7
+  },
+  {
+    "id": 412,
+    "name": "38770-MKY-D51",
+    "brand_id": 7
+  },
+  {
+    "id": 413,
+    "name": "38770-MFA-D03",
+    "brand_id": 7
+  },
+  {
+    "id": 414,
+    "name": "38770-MGJ-D02",
+    "brand_id": 7
+  },
+  {
+    "id": 415,
+    "name": "38770-MEL-043",
+    "brand_id": 7
+  },
+  {
+    "id": 416,
+    "name": "38770-MEL-672",
+    "brand_id": 7
+  },
+  {
+    "id": 417,
+    "name": "38770-MEL-772",
+    "brand_id": 7
+  },
+  {
+    "id": 418,
+    "name": "38770-MEL-D01",
+    "brand_id": 7
+  },
+  {
+    "id": 419,
+    "name": "38770-MEL-A21",
+    "brand_id": 7
+  },
+  {
+    "id": 420,
+    "name": "38770-MEL-A22",
+    "brand_id": 7
+  },
+  {
+    "id": 421,
+    "name": "38770-MEL-L22",
+    "brand_id": 7
+  },
+  {
+    "id": 422,
+    "name": "38770-MFL-671",
+    "brand_id": 7
+  },
+  {
+    "id": 423,
+    "name": "38770-MFL-702",
+    "brand_id": 7
+  },
+  {
+    "id": 424,
+    "name": "38770-MFL-773",
+    "brand_id": 7
+  },
+  {
+    "id": 425,
+    "name": "38770-MFL-J41",
+    "brand_id": 7
+  },
+  {
+    "id": 426,
+    "name": "38770-MFL-J21",
+    "brand_id": 7
+  },
+  {
+    "id": 427,
+    "name": "38770-MFL-A21",
+    "brand_id": 7
+  },
+  {
+    "id": 428,
+    "name": "38770-MFL-L21",
+    "brand_id": 7
+  },
+  {
+    "id": 429,
+    "name": "38770-MGP-J01",
+    "brand_id": 7
+  },
+  {
+    "id": 430,
+    "name": "38770-MGP-F01",
+    "brand_id": 7
+  },
+  {
+    "id": 431,
+    "name": "38770-MGP-D01",
+    "brand_id": 7
+  },
+  {
+    "id": 432,
+    "name": "38770-MGP-A01",
+    "brand_id": 7
+  },
+  {
+    "id": 433,
+    "name": "38770-MGP-L01",
+    "brand_id": 7
+  },
+  {
+    "id": 434,
+    "name": "38770-MGP-A92",
+    "brand_id": 7
+  },
+  {
+    "id": 435,
+    "name": "38770-MGP-D62",
+    "brand_id": 7
+  },
+  {
+    "id": 436,
+    "name": "38770-MKFA-A22",
+    "brand_id": 7
+  },
+  {
+    "id": 437,
+    "name": "38770-MKF-A22",
+    "brand_id": 7
+  },
+  {
+    "id": 438,
+    "name": "38770-MKFA-DK2",
+    "brand_id": 7
+  },
+  {
+    "id": 439,
+    "name": "38770-MFL-741",
+    "brand_id": 7
+  },
+  {
+    "id": 440,
+    "name": "38770-MFL-861",
+    "brand_id": 7
+  },
+  {
+    "id": 441,
+    "name": "38770-MFL-691",
+    "brand_id": 7
+  },
+  {
+    "id": 442,
+    "name": "38770-MFL-761",
+    "brand_id": 7
+  },
+  {
+    "id": 443,
+    "name": "38770-MFL-D21",
+    "brand_id": 7
+  },
+  {
+    "id": 444,
+    "name": "38770-MFL-F21",
+    "brand_id": 7
+  },
+  {
+    "id": 445,
+    "name": "38770-MGP-T42",
+    "brand_id": 7
+  },
+  {
+    "id": 446,
+    "name": "38770-MGP-F63",
+    "brand_id": 7
+  },
+  {
+    "id": 447,
+    "name": "38770-MKF-L13",
+    "brand_id": 7
+  },
+  {
+    "id": 448,
+    "name": "38770-MKF-D43",
+    "brand_id": 7
+  },
+  {
+    "id": 449,
+    "name": "38770-MKF-J12",
+    "brand_id": 7
+  },
+  {
+    "id": 450,
+    "name": "38770-MKF-H11",
+    "brand_id": 7
+  },
+  {
+    "id": 451,
+    "name": "38770-MKF-TK2",
+    "brand_id": 7
+  },
+  {
+    "id": 452,
+    "name": "38770-MEL-643",
+    "brand_id": 7
+  },
+  {
+    "id": 453,
+    "name": "38770-MEL-622",
+    "brand_id": 7
+  },
+  {
+    "id": 454,
+    "name": "38770-MEL-613",
+    "brand_id": 7
+  },
+  {
+    "id": 455,
+    "name": "38770-MEL-D21",
+    "brand_id": 7
+  },
+  {
+    "id": 456,
+    "name": "38770-MEL-F21",
+    "brand_id": 7
+  },
+  {
+    "id": 457,
+    "name": "38770-MFL-644",
+    "brand_id": 7
+  },
+  {
+    "id": 458,
+    "name": "38770-MFL-622",
+    "brand_id": 7
+  },
+  {
+    "id": 459,
+    "name": "38770-MFL-631",
+    "brand_id": 7
+  },
+  {
+    "id": 460,
+    "name": "38770-MFL-871",
+    "brand_id": 7
+  },
+  {
+    "id": 461,
+    "name": "38770-NLR-B31",
+    "brand_id": 7
+  },
+  {
+    "id": 462,
+    "name": "38770-MKF-D72",
+    "brand_id": 7
+  },
+  {
+    "id": 463,
+    "name": "38770-MKFA-D72",
+    "brand_id": 7
+  },
+  {
+    "id": 464,
+    "name": "38770-NLS-000",
+    "brand_id": 7
+  },
+  {
+    "id": 465,
+    "name": "38770-MKR-A31",
+    "brand_id": 7
+  },
+  {
+    "id": 466,
+    "name": "38770-MKR-D12",
+    "brand_id": 7
+  },
+  {
+    "id": 467,
+    "name": "38770-KPP-N02",
+    "brand_id": 7
+  },
+  {
+    "id": 468,
+    "name": "38770-KPP-602",
+    "brand_id": 7
+  },
+  {
+    "id": 469,
+    "name": "38770-KPP-T03",
+    "brand_id": 7
+  },
+  {
+    "id": 470,
+    "name": "38770-KYJ-971",
+    "brand_id": 7
+  },
+  {
+    "id": 471,
+    "name": "38770-KYJ-922",
+    "brand_id": 7
+  },
+  {
+    "id": 472,
+    "name": "38770-KYJ-R11",
+    "brand_id": 7
+  },
+  {
+    "id": 473,
+    "name": "38770-K64-N04",
+    "brand_id": 7
+  },
+  {
+    "id": 474,
+    "name": "38770-K64-N01",
+    "brand_id": 7
+  },
+  {
+    "id": 475,
+    "name": "38770-K64-R02",
+    "brand_id": 7
+  },
+  {
+    "id": 476,
+    "name": "38770-MJW-T11",
+    "brand_id": 7
+  },
+  {
+    "id": 477,
+    "name": "38770-MJW-AQ1",
+    "brand_id": 7
+  },
+  {
+    "id": 478,
+    "name": "38770-MJW-DR1",
+    "brand_id": 7
+  },
+  {
+    "id": 479,
+    "name": "38770-MJW-N11",
+    "brand_id": 7
+  },
+  {
+    "id": 480,
+    "name": "38770-MKPA-B81",
+    "brand_id": 7
+  },
+  {
+    "id": 481,
+    "name": "38770-MKP-A01",
+    "brand_id": 7
+  },
+  {
+    "id": 482,
+    "name": "38770-MEE-622",
+    "brand_id": 7
+  },
+  {
+    "id": 483,
+    "name": "38770-MEE-612",
+    "brand_id": 7
+  },
+  {
+    "id": 484,
+    "name": "38770-NL3-750",
+    "brand_id": 7
+  },
+  {
+    "id": 485,
+    "name": "38770-MEE-613",
+    "brand_id": 7
+  },
+  {
+    "id": 486,
+    "name": "38770-MEE-F02",
+    "brand_id": 7
+  },
+  {
+    "id": 487,
+    "name": "38770-MEE-D01",
+    "brand_id": 7
+  },
+  {
+    "id": 488,
+    "name": "38770-MEE-A02",
+    "brand_id": 7
+  },
+  {
+    "id": 489,
+    "name": "38770-MFJ-F03",
+    "brand_id": 7
+  },
+  {
+    "id": 490,
+    "name": "38770-MFJ-D04",
+    "brand_id": 7
+  },
+  {
+    "id": 491,
+    "name": "38770-MFJ-A02",
+    "brand_id": 7
+  },
+  {
+    "id": 492,
+    "name": "38770-MFJ-D42",
+    "brand_id": 7
+  },
+  {
+    "id": 493,
+    "name": "38770-MJC-D01",
+    "brand_id": 7
+  },
+  {
+    "id": 494,
+    "name": "38770-MJC-A01",
+    "brand_id": 7
+  },
+  {
+    "id": 495,
+    "name": "38770-MEE-R21",
+    "brand_id": 7
+  },
+  {
+    "id": 496,
+    "name": "38770-N1A-D11",
+    "brand_id": 7
+  },
+  {
+    "id": 497,
+    "name": "38770-N1A-D00",
+    "brand_id": 7
+  },
+  {
+    "id": 498,
+    "name": "38770-MJE-A02",
+    "brand_id": 7
+  },
+  {
+    "id": 499,
+    "name": "38770-MKU-U51",
+    "brand_id": 7
+  },
+  {
+    "id": 500,
+    "name": "38770-MJE-T15",
+    "brand_id": 7
+  },
+  {
+    "id": 501,
+    "name": "38770-MJE-T52",
+    "brand_id": 7
+  },
+  {
+    "id": 502,
+    "name": "38770-MKU-U11",
+    "brand_id": 7
+  },
+  {
+    "id": 503,
+    "name": "38770-MKN-U11",
+    "brand_id": 7
+  },
+  {
+    "id": 504,
+    "name": "38770-MKN-D51",
+    "brand_id": 7
+  },
+  {
+    "id": 505,
+    "name": "38770-MKN-T11",
+    "brand_id": 7
+  },
+  {
+    "id": 506,
+    "name": "38770-MKY-DF1",
+    "brand_id": 7
+  },
+  {
+    "id": 507,
+    "name": "38770-MKY-DB1",
+    "brand_id": 7
+  },
+  {
+    "id": 508,
+    "name": "38770-MKY-D11",
+    "brand_id": 7
+  },
+  {
+    "id": 509,
+    "name": "38770-MKS -E02",
+    "brand_id": 7
+  },
+  {
+    "id": 510,
+    "name": "38770-MKS -A02",
+    "brand_id": 7
+  },
+  {
+    "id": 511,
+    "name": "38770-MKS -E22",
+    "brand_id": 7
+  },
+  {
+    "id": 512,
+    "name": "38770-MKS -E72",
+    "brand_id": 7
+  },
+  {
+    "id": 513,
+    "name": "38770-MKS -AV2",
+    "brand_id": 7
+  },
+  {
+    "id": 514,
+    "name": "38770-MKS -AT2",
+    "brand_id": 7
+  },
+  {
+    "id": 515,
+    "name": "38770-MKS -E52",
+    "brand_id": 7
+  },
+  {
+    "id": 516,
+    "name": "38770-MKS -A52",
+    "brand_id": 7
+  },
+  {
+    "id": 517,
+    "name": "38770-MKV -E02",
+    "brand_id": 7
+  },
+  {
+    "id": 518,
+    "name": "38770-MKV -D02",
+    "brand_id": 7
+  },
+  {
+    "id": 519,
+    "name": "38770-GGE-901",
+    "brand_id": 7
+  },
+  {
+    "id": 520,
+    "name": "38770-GFM-601",
+    "brand_id": 7
+  },
+  {
+    "id": 521,
+    "name": "38770-GFM-M02",
+    "brand_id": 7
+  },
+  {
+    "id": 522,
+    "name": "38770-KYT-901",
+    "brand_id": 7
+  },
+  {
+    "id": 523,
+    "name": "30400-K93-T01",
+    "brand_id": 7
+  },
+  {
+    "id": 524,
+    "name": "30400-K93-N01",
+    "brand_id": 7
+  },
+  {
+    "id": 525,
+    "name": "38770-KTW-901",
+    "brand_id": 7
+  },
+  {
+    "id": 526,
+    "name": "38770-HL6-A05",
+    "brand_id": 7
+  },
+  {
+    "id": 527,
+    "name": "30400-K46-N31",
+    "brand_id": 7
+  },
+  {
+    "id": 528,
+    "name": "38770-KWW-601",
+    "brand_id": 7
+  },
+  {
+    "id": 529,
+    "name": "38770-KYL-T01",
+    "brand_id": 7
+  },
+  {
+    "id": 530,
+    "name": "38770-MKH-D01",
+    "brand_id": 7
+  },
+  {
+    "id": 531,
+    "name": "38770-MKH-D22",
+    "brand_id": 7
+  },
+  {
+    "id": 532,
+    "name": "38770-MKH-D42",
+    "brand_id": 7
+  },
+  {
+    "id": 533,
+    "name": "38770-MKT -E04",
+    "brand_id": 7
+  },
+  {
+    "id": 534,
+    "name": "38770-MKT -D04",
+    "brand_id": 7
+  },
+  {
+    "id": 535,
+    "name": "RBW",
+    "brand_id": 7
+  },
+  {
+    "id": 536,
+    "name": "6001-19FH-000",
+    "brand_id": 7
+  },
+  {
+    "id": 537,
+    "name": 61941031000,
+    "brand_id": 7
+  },
+  {
+    "id": 538,
+    "name": "MG1CA007",
+    "brand_id": 1
+  },
+  {
+    "id": 539,
+    "name": "ME17.8.74",
+    "brand_id": 1
+  },
+  {
+    "id": 540,
+    "name": "ME17.9.74",
+    "brand_id": 1
+  },
+  {
+    "id": 541,
+    "name": "21175-07XX",
+    "brand_id": 8
+  },
+  {
+    "id": 542,
+    "name": "21175-0077",
+    "brand_id": 8
+  },
+  {
+    "id": 543,
+    "name": "21175-0187",
+    "brand_id": 8
+  },
+  {
+    "id": 544,
+    "name": "21175-0064",
+    "brand_id": 6
+  },
+  {
+    "id": 545,
+    "name": "21175-0079",
+    "brand_id": 6
+  },
+  {
+    "id": 546,
+    "name": "21175-0158",
+    "brand_id": 6
+  },
+  {
+    "id": 547,
+    "name": "21175-076X",
+    "brand_id": 6
+  },
+  {
+    "id": 548,
+    "name": "21175-033X",
+    "brand_id": 6
+  },
+  {
+    "id": 549,
+    "name": "21175-1118",
+    "brand_id": 6
+  },
+  {
+    "id": 550,
+    "name": "21175-1647",
+    "brand_id": 6
+  },
+  {
+    "id": 551,
+    "name": "21175-1065",
+    "brand_id": 8
+  },
+  {
+    "id": 552,
+    "name": "21175-1077",
+    "brand_id": 8
+  },
+  {
+    "id": 553,
+    "name": "21175-1087",
+    "brand_id": 8
+  },
+  {
+    "id": 554,
+    "name": "21175-0028",
+    "brand_id": 8
+  },
+  {
+    "id": 555,
+    "name": "21175-0199",
+    "brand_id": 8
+  },
+  {
+    "id": 556,
+    "name": "21175-1314",
+    "brand_id": 8
+  },
+  {
+    "id": 557,
+    "name": "21175-1096",
+    "brand_id": 8
+  },
+  {
+    "id": 558,
+    "name": "21175-0109",
+    "brand_id": 8
+  },
+  {
+    "id": 559,
+    "name": "21175-0220",
+    "brand_id": 8
+  },
+  {
+    "id": 560,
+    "name": "21175-0354",
+    "brand_id": 8
+  },
+  {
+    "id": 561,
+    "name": "21175-0811",
+    "brand_id": 8
+  },
+  {
+    "id": 562,
+    "name": "21175-0001",
+    "brand_id": 8
+  },
+  {
+    "id": 563,
+    "name": "21175-0046",
+    "brand_id": 8
+  },
+  {
+    "id": 564,
+    "name": "21175-08XX",
+    "brand_id": 8
+  },
+  {
+    "id": 565,
+    "name": "21175-1384",
+    "brand_id": 8
+  },
+  {
+    "id": 566,
+    "name": "21175-1194",
+    "brand_id": 8
+  },
+  {
+    "id": 567,
+    "name": "21175-1176",
+    "brand_id": 8
+  },
+  {
+    "id": 568,
+    "name": "21175-1186",
+    "brand_id": 8
+  },
+  {
+    "id": 569,
+    "name": "21175-0966",
+    "brand_id": 6
+  },
+  {
+    "id": 570,
+    "name": "21175-1483",
+    "brand_id": 6
+  },
+  {
+    "id": 571,
+    "name": "21175-1258",
+    "brand_id": 6
+  },
+  {
+    "id": 572,
+    "name": "21175-1500",
+    "brand_id": 6
+  },
+  {
+    "id": 573,
+    "name": "21175-0313",
+    "brand_id": 8
+  },
+  {
+    "id": 574,
+    "name": "21175-0924",
+    "brand_id": 8
+  },
+  {
+    "id": 575,
+    "name": "21175-1184",
+    "brand_id": 8
+  },
+  {
+    "id": 576,
+    "name": "21175-1097",
+    "brand_id": 8
+  },
+  {
+    "id": 577,
+    "name": "21175-0051",
+    "brand_id": 8
+  },
+  {
+    "id": 578,
+    "name": "21175-0170",
+    "brand_id": 8
+  },
+  {
+    "id": 579,
+    "name": "21175-0272",
+    "brand_id": 8
+  },
+  {
+    "id": 580,
+    "name": "21175-1611",
+    "brand_id": 8
+  },
+  {
+    "id": 581,
+    "name": "21175-001X",
+    "brand_id": 8
+  },
+  {
+    "id": 582,
+    "name": "21175-0053",
+    "brand_id": 8
+  },
+  {
+    "id": 583,
+    "name": "21175-0097",
+    "brand_id": 8
+  },
+  {
+    "id": 584,
+    "name": "21175-1362",
+    "brand_id": 8
+  },
+  {
+    "id": 585,
+    "name": "21175-1307",
+    "brand_id": 8
+  },
+  {
+    "id": 586,
+    "name": "21175-1594",
+    "brand_id": 8
+  },
+  {
+    "id": 587,
+    "name": "21175-1544",
+    "brand_id": 8
+  },
+  {
+    "id": 588,
+    "name": "21175-1212",
+    "brand_id": 8
+  },
+  {
+    "id": 589,
+    "name": "21175-1239",
+    "brand_id": 8
+  },
+  {
+    "id": 590,
+    "name": "21175-1312",
+    "brand_id": 8
+  },
+  {
+    "id": 591,
+    "name": "N/A",
+    "brand_id": 7
+  },
+  {
+    "id": 592,
+    "name": "M17.8.7",
+    "brand_id": 1
+  },
+  {
+    "id": 593,
+    "name": "M17.8.42",
+    "brand_id": 1
+  },
+  {
+    "id": 594,
+    "name": "IAW 32MIU1",
+    "brand_id": 2
+  },
+  {
+    "id": 595,
+    "name": "IAW MIU M3G / 32M3G1",
+    "brand_id": 2
+  },
+  {
+    "id": 596,
+    "name": "IAW 40MIU1",
+    "brand_id": 2
+  },
+  {
+    "id": 597,
+    "name": "IAW 38RIU 1",
+    "brand_id": 2
+  },
+  {
+    "id": 598,
+    "name": "ME17.8.7",
+    "brand_id": 1
+  },
+  {
+    "id": 599,
+    "name": "MT05.02",
+    "brand_id": 4
+  },
+  {
+    "id": 600,
+    "name": "32920-23H00",
+    "brand_id": 8
+  },
+  {
+    "id": 601,
+    "name": "33920-18H00",
+    "brand_id": 8
+  },
+  {
+    "id": 602,
+    "name": "32920-48GXX",
+    "brand_id": 8
+  },
+  {
+    "id": 603,
+    "name": "33920-24AGx",
+    "brand_id": 6
+  },
+  {
+    "id": 604,
+    "name": "32920-44Gxx",
+    "brand_id": 8
+  },
+  {
+    "id": 605,
+    "name": "32910-06L00",
+    "brand_id": 6
+  },
+  {
+    "id": 606,
+    "name": "32920-31J00",
+    "brand_id": 8
+  },
+  {
+    "id": 607,
+    "name": "33920-28K51",
+    "brand_id": 6
+  },
+  {
+    "id": 608,
+    "name": "32920-21Hxx",
+    "brand_id": 8
+  },
+  {
+    "id": 609,
+    "name": "39920 - 18G00",
+    "brand_id": 8
+  },
+  {
+    "id": 610,
+    "name": "32920-17Kxx TC",
+    "brand_id": 8
+  },
+  {
+    "id": 611,
+    "name": "32920-17Kxx",
+    "brand_id": 8
+  },
+  {
+    "id": 612,
+    "name": "32920-24FG0",
+    "brand_id": 8
+  },
+  {
+    "id": 613,
+    "name": "33920-96L10",
+    "brand_id": 6
+  },
+  {
+    "id": 614,
+    "name": "32920-01HXX",
+    "brand_id": 8
+  },
+  {
+    "id": 615,
+    "name": "32920-37Hxx",
+    "brand_id": 8
+  },
+  {
+    "id": 616,
+    "name": "32920-15J70",
+    "brand_id": 8
+  },
+  {
+    "id": 617,
+    "name": "32920-30Gxx",
+    "brand_id": 8
+  },
+  {
+    "id": 618,
+    "name": "32920-38H00",
+    "brand_id": 8
+  },
+  {
+    "id": 619,
+    "name": "32920-08J11",
+    "brand_id": 8
+  },
+  {
+    "id": 620,
+    "name": "B95-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 621,
+    "name": "B88-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 622,
+    "name": "BK5-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 623,
+    "name": "B96-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 624,
+    "name": "3P6-8591-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 625,
+    "name": "8GL-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 626,
+    "name": "8GL-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 627,
+    "name": "8GL-8591A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 628,
+    "name": "2D1-8591A-20",
+    "brand_id": 8
+  },
+  {
+    "id": 629,
+    "name": "3C3-8591A-80",
+    "brand_id": 8
+  },
+  {
+    "id": 630,
+    "name": "3C3-8591A-40",
+    "brand_id": 8
+  },
+  {
+    "id": 631,
+    "name": "3C3-8591A-50",
+    "brand_id": 8
+  },
+  {
+    "id": 632,
+    "name": "3C3-8591A-60",
+    "brand_id": 8
+  },
+  {
+    "id": 633,
+    "name": "3C3-8591A-70",
+    "brand_id": 8
+  },
+  {
+    "id": 634,
+    "name": "2D1-8591A-90",
+    "brand_id": 8
+  },
+  {
+    "id": 635,
+    "name": "5VX-5891A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 636,
+    "name": "5VX-5891A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 637,
+    "name": "39P-8591A-10",
+    "brand_id": 8
+  },
+  {
+    "id": 638,
+    "name": "39P-8591A-30",
+    "brand_id": 8
+  },
+  {
+    "id": 639,
+    "name": "39P-8591A-50",
+    "brand_id": 8
+  },
+  {
+    "id": 640,
+    "name": "5YU-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 641,
+    "name": "5YU-8591A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 642,
+    "name": "5YU-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 643,
+    "name": "1WS-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 644,
+    "name": "1XB-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 645,
+    "name": "2RC-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 646,
+    "name": "BJY-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 647,
+    "name": "BJX-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 648,
+    "name": "BJW-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 649,
+    "name": "BJV-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 650,
+    "name": "BHH-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 651,
+    "name": "BAT-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 652,
+    "name": "1RC-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 653,
+    "name": "2DR-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 654,
+    "name": "BS2-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 655,
+    "name": "BAM-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 656,
+    "name": "B7N-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 657,
+    "name": "B90-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 658,
+    "name": "B67-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 659,
+    "name": "BW8-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 660,
+    "name": "BD5-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 661,
+    "name": "2SL-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 662,
+    "name": "F8T85884",
+    "brand_id": 6
+  },
+  {
+    "id": 663,
+    "name": "F8T85886",
+    "brand_id": 6
+  },
+  {
+    "id": 664,
+    "name": "2MB-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 665,
+    "name": "BG4-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 666,
+    "name": "2HC-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 667,
+    "name": "B5J-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 668,
+    "name": "B57-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 669,
+    "name": "B57-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 670,
+    "name": "8KC-H591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 671,
+    "name": "2PW-8591A-40",
+    "brand_id": 8
+  },
+  {
+    "id": 672,
+    "name": "BX3-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 673,
+    "name": "BV1-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 674,
+    "name": "BC3-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 675,
+    "name": "5VU-8591A-00",
+    "brand_id": 8
+  },
+  {
+    "id": 676,
+    "name": "15B-8591A-00",
+    "brand_id": 8
+  },
+  {
+    "id": 677,
+    "name": "4B5-8591A-00",
+    "brand_id": 8
+  },
+  {
+    "id": 678,
+    "name": "B7M-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 679,
+    "name": "B3T-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 680,
+    "name": "BW3-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 681,
+    "name": "B5T-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 682,
+    "name": "B4T-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 683,
+    "name": "B5U-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 684,
+    "name": "BAP-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 685,
+    "name": "2SC-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 686,
+    "name": "B5C-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 687,
+    "name": "B1J-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 688,
+    "name": "BU2-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 689,
+    "name": "B34-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 690,
+    "name": "23P-8591A-70-Micro#2",
+    "brand_id": 8
+  },
+  {
+    "id": 691,
+    "name": "23P-8591A-70-Micro#1",
+    "brand_id": 8
+  },
+  {
+    "id": 692,
+    "name": "2BS-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 693,
+    "name": "BP8-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 694,
+    "name": "F8T84475",
+    "brand_id": 6
+  },
+  {
+    "id": 695,
+    "name": "5PW-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 696,
+    "name": "5VY-60",
+    "brand_id": 6
+  },
+  {
+    "id": 697,
+    "name": "5VY-8591A-B0",
+    "brand_id": 6
+  },
+  {
+    "id": 698,
+    "name": "4C8-8591A-21-Micro#1",
+    "brand_id": 8
+  },
+  {
+    "id": 699,
+    "name": "4C8-8591A-21-Micro#2",
+    "brand_id": 8
+  },
+  {
+    "id": 700,
+    "name": "4C8-8591A-60-Micro#1",
+    "brand_id": 8
+  },
+  {
+    "id": 701,
+    "name": "14B-8591A-20 Micro#2",
+    "brand_id": 8
+  },
+  {
+    "id": 702,
+    "name": "14B-8591A-20 Micro#1",
+    "brand_id": 8
+  },
+  {
+    "id": 703,
+    "name": "2CR-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 704,
+    "name": "BX4-8591A-60",
+    "brand_id": 8
+  },
+  {
+    "id": 705,
+    "name": "B60-8591A-60",
+    "brand_id": 8
+  },
+  {
+    "id": 706,
+    "name": "B3L-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 707,
+    "name": "B02-H591A-10",
+    "brand_id": 8
+  },
+  {
+    "id": 708,
+    "name": "BR5-H591A-00",
+    "brand_id": 8
+  },
+  {
+    "id": 709,
+    "name": "5SL-8591A-30",
+    "brand_id": 8
+  },
+  {
+    "id": 710,
+    "name": "5SL-8591A-60",
+    "brand_id": 8
+  },
+  {
+    "id": 711,
+    "name": "5SL-8591A-C0",
+    "brand_id": 8
+  },
+  {
+    "id": 712,
+    "name": "2C0-8591A-21-Micro#1",
+    "brand_id": 8
+  },
+  {
+    "id": 713,
+    "name": "2C0-8591A-21-Micro#2",
+    "brand_id": 8
+  },
+  {
+    "id": 714,
+    "name": "13S-8591A-20",
+    "brand_id": 8
+  },
+  {
+    "id": 715,
+    "name": "13S-8591A-60",
+    "brand_id": 8
+  },
+  {
+    "id": 716,
+    "name": "13S-8591A-H0",
+    "brand_id": 8
+  },
+  {
+    "id": 717,
+    "name": "BN6-8591A-XX",
+    "brand_id": 8
+  },
+  {
+    "id": 718,
+    "name": "N/A",
+    "brand_id": 6
+  },
+  {
+    "id": 719,
+    "name": "21175-3732",
+    "brand_id": 6
+  },
+  {
+    "id": 720,
+    "name": "21175-373x",
+    "brand_id": 6
+  },
+  {
+    "id": 721,
+    "name": "21175-374x",
+    "brand_id": 6
+  },
+  {
+    "id": 722,
+    "name": "21175-08XX",
+    "brand_id": 6
+  },
+  {
+    "id": 723,
+    "name": "33940-87L70",
+    "brand_id": 6
+  },
+  {
+    "id": 724,
+    "name": "MH7202F",
+    "brand_id": 9
+  },
+  {
+    "id": 725,
+    "name": "33920-93J40",
+    "brand_id": 6
+  },
+  {
+    "id": 726,
+    "name": "33920-98JF0",
+    "brand_id": 6
+  },
+  {
+    "id": 727,
+    "name": "33920-89LD0",
+    "brand_id": 6
+  },
+  {
+    "id": 728,
+    "name": "33920-93J74",
+    "brand_id": 6
+  },
+  {
+    "id": 729,
+    "name": "33920-94L30",
+    "brand_id": 6
+  },
+  {
+    "id": 730,
+    "name": "33920-98J80",
+    "brand_id": 6
+  },
+  {
+    "id": 731,
+    "name": "33920-98L50",
+    "brand_id": 6
+  },
+  {
+    "id": 732,
+    "name": "33940-88LJ0",
+    "brand_id": 6
+  },
+  {
+    "id": 733,
+    "name": "33920-87J03",
+    "brand_id": 6
+  },
+  {
+    "id": 734,
+    "name": "33920-88LC0",
+    "brand_id": 6
+  },
+  {
+    "id": 735,
+    "name": "33920-87LG0",
+    "brand_id": 6
+  },
+  {
+    "id": 736,
+    "name": "33920-87LA0",
+    "brand_id": 6
+  },
+  {
+    "id": 737,
+    "name": "33920-87L50",
+    "brand_id": 6
+  },
+  {
+    "id": 738,
+    "name": "33920-87L10",
+    "brand_id": 6
+  },
+  {
+    "id": 739,
+    "name": "33920-87LC0",
+    "brand_id": 6
+  },
+  {
+    "id": 740,
+    "name": "33920-87L60",
+    "brand_id": 6
+  },
+  {
+    "id": 741,
+    "name": "33920-87LE0",
+    "brand_id": 6
+  },
+  {
+    "id": 742,
+    "name": "33920-87L80",
+    "brand_id": 6
+  },
+  {
+    "id": 743,
+    "name": "33920-87L30",
+    "brand_id": 6
+  },
+  {
+    "id": 744,
+    "name": "6EV-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 745,
+    "name": "F8T63474",
+    "brand_id": 6
+  },
+  {
+    "id": 746,
+    "name": "6D9-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 747,
+    "name": "68V-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 748,
+    "name": "6FB-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 749,
+    "name": "63P-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 750,
+    "name": "6FA-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 751,
+    "name": "6DA-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 752,
+    "name": "6CX-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 753,
+    "name": "F8T60xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 754,
+    "name": "6KA-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 755,
+    "name": "6AK-8591A-3X",
+    "brand_id": 6
+  },
+  {
+    "id": 756,
+    "name": "6C1-8591A-2X",
+    "brand_id": 6
+  },
+  {
+    "id": 757,
+    "name": "6C1-22",
+    "brand_id": 6
+  },
+  {
+    "id": 758,
+    "name": "6C5-8591A-4X",
+    "brand_id": 6
+  },
+  {
+    "id": 759,
+    "name": "6D6-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 760,
+    "name": "6D7-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 761,
+    "name": "6FP-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 762,
+    "name": "6D8-8591A-XX",
+    "brand_id": 6
+  },
+  {
+    "id": 763,
+    "name": "60E-8591A-11",
+    "brand_id": 6
+  },
+  {
+    "id": 764,
+    "name": "60E-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 765,
+    "name": "60E-8591A-30",
+    "brand_id": 6
+  },
+  {
+    "id": 766,
+    "name": "6B6-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 767,
+    "name": "6B6-8591A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 768,
+    "name": "6B6-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 769,
+    "name": "6CR-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 770,
+    "name": "6CR-8591A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 771,
+    "name": "6CR-8591A-24",
+    "brand_id": 6
+  },
+  {
+    "id": 772,
+    "name": "6S5-8591A-01",
+    "brand_id": 6
+  },
+  {
+    "id": 773,
+    "name": "6CS-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 774,
+    "name": "6CS-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 775,
+    "name": "6CS-8591A-41",
+    "brand_id": 6
+  },
+  {
+    "id": 776,
+    "name": "6ET-22",
+    "brand_id": 6
+  },
+  {
+    "id": 777,
+    "name": "6AN-8591A-01",
+    "brand_id": 6
+  },
+  {
+    "id": 778,
+    "name": "6AN-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 779,
+    "name": "6EV-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 780,
+    "name": "6EV-8591A-22",
+    "brand_id": 6
+  },
+  {
+    "id": 781,
+    "name": "6EN-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 782,
+    "name": "6FB-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 783,
+    "name": "6D3-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 784,
+    "name": "6D3-8591A-21",
+    "brand_id": 6
+  },
+  {
+    "id": 785,
+    "name": "6D3-8591A-A0",
+    "brand_id": 6
+  },
+  {
+    "id": 786,
+    "name": "6D3-8591A-C1",
+    "brand_id": 6
+  },
+  {
+    "id": 787,
+    "name": "6BU-8591A-A0",
+    "brand_id": 6
+  },
+  {
+    "id": 788,
+    "name": "6EW-8591A-24",
+    "brand_id": 6
+  },
+  {
+    "id": 789,
+    "name": "6EN-8591A-A0",
+    "brand_id": 6
+  },
+  {
+    "id": 790,
+    "name": "6CS-8591A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 791,
+    "name": "6CN-8591A-20",
+    "brand_id": 6
+  },
+  {
+    "id": 792,
+    "name": "6EW-8591A-02",
+    "brand_id": 6
+  },
+  {
+    "id": 793,
+    "name": "F8T63475",
+    "brand_id": 6
+  },
+  {
+    "id": 794,
+    "name": "6CN-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 795,
+    "name": "6CN-8591A-10",
+    "brand_id": 6
+  },
+  {
+    "id": 796,
+    "name": "6BU-8591A-00",
+    "brand_id": 6
+  },
+  {
+    "id": 797,
+    "name": "8GMK",
+    "brand_id": 2
+  },
+  {
+    "id": 798,
+    "name": "CFC319",
+    "brand_id": 2
+  },
+  {
+    "id": 799,
+    "name": "8GMW",
+    "brand_id": 2
+  },
+  {
+    "id": 800,
+    "name": "8GMF",
+    "brand_id": 2
+  },
+  {
+    "id": 801,
+    "name": "37820-xxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 802,
+    "name": "37820-Rxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 803,
+    "name": "37820-Rxx-xxx",
+    "brand_id": 5
+  },
+  {
+    "id": 804,
+    "name": "37820-5XX-XXX",
+    "brand_id": 7
+  },
+  {
+    "id": 805,
+    "name": "ZF ES11-10xx",
+    "brand_id": 1
+  },
+  {
+    "id": 806,
+    "name": "378xx-xxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 807,
+    "name": "ME7.3.1",
+    "brand_id": 1
+  },
+  {
+    "id": 808,
+    "name": "ME3.1",
+    "brand_id": 1
+  },
+  {
+    "id": 809,
+    "name": "ME2.1",
+    "brand_id": 1
+  },
+  {
+    "id": 810,
+    "name": "MED17.3.1",
+    "brand_id": 1
+  },
+  {
+    "id": 811,
+    "name": "8TDF",
+    "brand_id": 2
+  },
+  {
+    "id": 812,
+    "name": "MED17.3.3",
+    "brand_id": 1
+  },
+  {
+    "id": 813,
+    "name": "ME7.3.2 - ME7.1.1",
+    "brand_id": 1
+  },
+  {
+    "id": 814,
+    "name": "M10JA",
+    "brand_id": 2
+  },
+  {
+    "id": 815,
+    "name": "8GF",
+    "brand_id": 2
+  },
+  {
+    "id": 816,
+    "name": "MJD6F3",
+    "brand_id": 2
+  },
+  {
+    "id": 817,
+    "name": "MJ8DF",
+    "brand_id": 2
+  },
+  {
+    "id": 818,
+    "name": "MJ9DF",
+    "brand_id": 2
+  },
+  {
+    "id": 819,
+    "name": "9GF",
+    "brand_id": 2
+  },
+  {
+    "id": 820,
+    "name": "IAW 5SF",
+    "brand_id": 2
+  },
+  {
+    "id": 821,
+    "name": "275036-5280",
+    "brand_id": 8
+  },
+  {
+    "id": 822,
+    "name": "EEC-VI",
+    "brand_id": 10
+  },
+  {
+    "id": 823,
+    "name": "EEC-VI M&S",
+    "brand_id": 10
+  },
+  {
+    "id": 824,
+    "name": "PCM150x",
+    "brand_id": 10
+  },
+  {
+    "id": 825,
+    "name": "DQ200",
+    "brand_id": 11
+  },
+  {
+    "id": 826,
+    "name": "Simos PCR 2.1",
+    "brand_id": 5
+  },
+  {
+    "id": 827,
+    "name": "Simos 10.24",
+    "brand_id": 5
+  },
+  {
+    "id": 828,
+    "name": "MED17.5.21",
+    "brand_id": 1
+  },
+  {
+    "id": 829,
+    "name": "DCM6.2V",
+    "brand_id": 4
+  },
+  {
+    "id": 830,
+    "name": "MED17.5.25",
+    "brand_id": 1
+  },
+  {
+    "id": 831,
+    "name": "DQ200 MQB",
+    "brand_id": 11
+  },
+  {
+    "id": 832,
+    "name": "DQ200G2",
+    "brand_id": 11
+  },
+  {
+    "id": 833,
+    "name": "MG1CS011",
+    "brand_id": 1
+  },
+  {
+    "id": 834,
+    "name": "DQ250 MQB",
+    "brand_id": 11
+  },
+  {
+    "id": 835,
+    "name": "MG1CS001",
+    "brand_id": 1
+  },
+  {
+    "id": 836,
+    "name": "MED9.1.5",
+    "brand_id": 1
+  },
+  {
+    "id": 837,
+    "name": "MED17.5.5_HW2",
+    "brand_id": 1
+  },
+  {
+    "id": 838,
+    "name": "IAW 4LV",
+    "brand_id": 2
+  },
+  {
+    "id": 839,
+    "name": "IAW 4MV",
+    "brand_id": 2
+  },
+  {
+    "id": 840,
+    "name": "Simos 7.1",
+    "brand_id": 5
+  },
+  {
+    "id": 841,
+    "name": "ME7.5.5",
+    "brand_id": 1
+  },
+  {
+    "id": 842,
+    "name": "DQ250Exx/Fxx",
+    "brand_id": 11
+  },
+  {
+    "id": 843,
+    "name": "DQ250Cxx",
+    "brand_id": 11
+  },
+  {
+    "id": 844,
+    "name": "PPD1.2",
+    "brand_id": 3
+  },
+  {
+    "id": 845,
+    "name": "DQ250",
+    "brand_id": 11
+  },
+  {
+    "id": 846,
+    "name": "Simos 10.12",
+    "brand_id": 5
+  },
+  {
+    "id": 847,
+    "name": "MD1CP004",
+    "brand_id": 1
+  },
+  {
+    "id": 848,
+    "name": "MG1CS111",
+    "brand_id": 1
+  },
+  {
+    "id": 849,
+    "name": "Simos 12.1",
+    "brand_id": 5
+  },
+  {
+    "id": 850,
+    "name": "DQ381",
+    "brand_id": 11
+  },
+  {
+    "id": 851,
+    "name": "MED17.1.27",
+    "brand_id": 1
+  },
+  {
+    "id": 852,
+    "name": "MD1CS004",
+    "brand_id": 1
+  },
+  {
+    "id": 853,
+    "name": "MED17.1.21",
+    "brand_id": 1
+  },
+  {
+    "id": 854,
+    "name": "ME7.1.5",
+    "brand_id": 1
+  },
+  {
+    "id": 855,
+    "name": "EDC15VM+2",
+    "brand_id": 1
+  },
+  {
+    "id": 856,
+    "name": "VL381",
+    "brand_id": 11
+  },
+  {
+    "id": 857,
+    "name": "Simos 6.2",
+    "brand_id": 5
+  },
+  {
+    "id": 858,
+    "name": "Simos 6.3",
+    "brand_id": 5
+  },
+  {
+    "id": 859,
+    "name": "PPD1.xx",
+    "brand_id": 3
+  },
+  {
+    "id": 860,
+    "name": "Simos 8.2",
+    "brand_id": 5
+  },
+  {
+    "id": 861,
+    "name": "DL501",
+    "brand_id": 11
+  },
+  {
+    "id": 862,
+    "name": "Simos 8.5",
+    "brand_id": 5
+  },
+  {
+    "id": 863,
+    "name": "Simos 18.1",
+    "brand_id": 5
+  },
+  {
+    "id": 864,
+    "name": "DL382-7F",
+    "brand_id": 11
+  },
+  {
+    "id": 865,
+    "name": "MED17.1.10",
+    "brand_id": 1
+  },
+  {
+    "id": 866,
+    "name": "Simos 18.10",
+    "brand_id": 5
+  },
+  {
+    "id": 867,
+    "name": "Simos 6.23",
+    "brand_id": 5
+  },
+  {
+    "id": 868,
+    "name": "Simos 8.4",
+    "brand_id": 5
+  },
+  {
+    "id": 869,
+    "name": "Simos 8.31",
+    "brand_id": 5
+  },
+  {
+    "id": 870,
+    "name": "MG1CS002",
+    "brand_id": 1
+  },
+  {
+    "id": 871,
+    "name": "Simos 8.3",
+    "brand_id": 5
+  },
+  {
+    "id": 872,
+    "name": "EDC16CP34 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 873,
+    "name": "EDC17CP44 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 874,
+    "name": "DQ500 MQB",
+    "brand_id": 11
+  },
+  {
+    "id": 875,
+    "name": "DQ500",
+    "brand_id": 11
+  },
+  {
+    "id": 876,
+    "name": "Simos 18.2",
+    "brand_id": 5
+  },
+  {
+    "id": 877,
+    "name": "EDC17CP24 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 878,
+    "name": "MED17.1.1 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 879,
+    "name": "MG1CS163",
+    "brand_id": 1
+  },
+  {
+    "id": 880,
+    "name": "MG1CS008",
+    "brand_id": 1
+  },
+  {
+    "id": 881,
+    "name": "Simos 12.2",
+    "brand_id": 5
+  },
+  {
+    "id": 882,
+    "name": "MD1CP014",
+    "brand_id": 1
+  },
+  {
+    "id": 883,
+    "name": "ME17.8.8",
+    "brand_id": 1
+  },
+  {
+    "id": 884,
+    "name": "ME7.8.8",
+    "brand_id": 1
+  },
+  {
+    "id": 885,
+    "name": "MT80",
+    "brand_id": 4
+  },
+  {
+    "id": 886,
+    "name": "8HP50",
+    "brand_id": 1
+  },
+  {
+    "id": 887,
+    "name": "MG1CS003 (DME_841)",
+    "brand_id": 1
+  },
+  {
+    "id": 888,
+    "name": "MG1CS003 (DME_861)",
+    "brand_id": 1
+  },
+  {
+    "id": 889,
+    "name": "8HP45",
+    "brand_id": 1
+  },
+  {
+    "id": 890,
+    "name": "MSD81.2",
+    "brand_id": 5
+  },
+  {
+    "id": 891,
+    "name": "MSV80",
+    "brand_id": 5
+  },
+  {
+    "id": 892,
+    "name": "MEV17.4.6",
+    "brand_id": 1
+  },
+  {
+    "id": 893,
+    "name": "MSD80",
+    "brand_id": 5
+  },
+  {
+    "id": 894,
+    "name": "MD1CS001 (DDE803S)",
+    "brand_id": 1
+  },
+  {
+    "id": 895,
+    "name": "MG1CS201 (DME_83T1)",
+    "brand_id": 1
+  },
+  {
+    "id": 896,
+    "name": "MG1CS201 (DME_84T1)",
+    "brand_id": 1
+  },
+  {
+    "id": 897,
+    "name": "MD1CS001 (DDE803P)",
+    "brand_id": 1
+  },
+  {
+    "id": 898,
+    "name": "MG1CS003 (DME_841H)",
+    "brand_id": 1
+  },
+  {
+    "id": 899,
+    "name": "MD1CP002 (DDE832C)",
+    "brand_id": 1
+  },
+  {
+    "id": 900,
+    "name": "MG1CS024 (DME_86T0)",
+    "brand_id": 1
+  },
+  {
+    "id": 901,
+    "name": "MG1CS003 (DME_86T0)",
+    "brand_id": 1
+  },
+  {
+    "id": 902,
+    "name": "MG1CS201 (DME_88T0)",
+    "brand_id": 1
+  },
+  {
+    "id": 903,
+    "name": "BMS46",
+    "brand_id": 3
+  },
+  {
+    "id": 904,
+    "name": "EDC15M",
+    "brand_id": 1
+  },
+  {
+    "id": 905,
+    "name": "MS42",
+    "brand_id": 3
+  },
+  {
+    "id": 906,
+    "name": "MS43",
+    "brand_id": 3
+  },
+  {
+    "id": 907,
+    "name": "MS45",
+    "brand_id": 3
+  },
+  {
+    "id": 908,
+    "name": "MSV70",
+    "brand_id": 5
+  },
+  {
+    "id": 909,
+    "name": "MSD81",
+    "brand_id": 5
+  },
+  {
+    "id": 910,
+    "name": "ZF 6HP19",
+    "brand_id": 1
+  },
+  {
+    "id": 911,
+    "name": "8HP70",
+    "brand_id": 1
+  },
+  {
+    "id": 912,
+    "name": "MG1CS003 (DME_840)",
+    "brand_id": 1
+  },
+  {
+    "id": 913,
+    "name": "MG1CS003 (DME_840H)",
+    "brand_id": 1
+  },
+  {
+    "id": 914,
+    "name": "MD1CS001 (DDE802L)",
+    "brand_id": 1
+  },
+  {
+    "id": 915,
+    "name": "MG1CS201 (DME_84T0)",
+    "brand_id": 1
+  },
+  {
+    "id": 916,
+    "name": "MG1CS003 (DME_860)",
+    "brand_id": 1
+  },
+  {
+    "id": 917,
+    "name": "ME7.2",
+    "brand_id": 1
+  },
+  {
+    "id": 918,
+    "name": "M5.2.1",
+    "brand_id": 1
+  },
+  {
+    "id": 919,
+    "name": "MSD87",
+    "brand_id": 5
+  },
+  {
+    "id": 920,
+    "name": "MSD85.4",
+    "brand_id": 5
+  },
+  {
+    "id": 921,
+    "name": "MEVD17.2.8 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 922,
+    "name": "MEVD17.2.H M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 923,
+    "name": "MG1CS003 (DME_880)",
+    "brand_id": 1
+  },
+  {
+    "id": 924,
+    "name": "ME9.2.3",
+    "brand_id": 1
+  },
+  {
+    "id": 925,
+    "name": "EDC16C31 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 926,
+    "name": "EDC16CP35 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 927,
+    "name": "M5.2",
+    "brand_id": 1
+  },
+  {
+    "id": 928,
+    "name": "8HP90",
+    "brand_id": 1
+  },
+  {
+    "id": 929,
+    "name": "MG1CS003 (DME_8C0)",
+    "brand_id": 1
+  },
+  {
+    "id": 930,
+    "name": "MSS52",
+    "brand_id": 3
+  },
+  {
+    "id": 931,
+    "name": "MSS54",
+    "brand_id": 3
+  },
+  {
+    "id": 932,
+    "name": "MSS60 #R",
+    "brand_id": 5
+  },
+  {
+    "id": 933,
+    "name": "MSS60 #L",
+    "brand_id": 5
+  },
+  {
+    "id": 934,
+    "name": "MSS65",
+    "brand_id": 5
+  },
+  {
+    "id": 935,
+    "name": "MSV90",
+    "brand_id": 5
+  },
+  {
+    "id": 936,
+    "name": "MD1CP032 (DME_DDE8530)",
+    "brand_id": 1
+  },
+  {
+    "id": 937,
+    "name": "MSD85",
+    "brand_id": 5
+  },
+  {
+    "id": 938,
+    "name": "MS41",
+    "brand_id": 3
+  },
+  {
+    "id": 939,
+    "name": "MSS50",
+    "brand_id": 3
+  },
+  {
+    "id": 940,
+    "name": "MSS70",
+    "brand_id": 5
+  },
+  {
+    "id": 941,
+    "name": "MH72XX",
+    "brand_id": 6
+  },
+  {
+    "id": 942,
+    "name": "SIM2k-91",
+    "brand_id": 5
+  },
+  {
+    "id": 943,
+    "name": "E78",
+    "brand_id": 12
+  },
+  {
+    "id": 944,
+    "name": "E39A",
+    "brand_id": 12
+  },
+  {
+    "id": 945,
+    "name": "E83",
+    "brand_id": 12
+  },
+  {
+    "id": 946,
+    "name": "E82",
+    "brand_id": 12
+  },
+  {
+    "id": 947,
+    "name": "E37",
+    "brand_id": 12
+  },
+  {
+    "id": 948,
+    "name": "ME9.1/ME9.5",
+    "brand_id": 1
+  },
+  {
+    "id": 949,
+    "name": "E92",
+    "brand_id": 12
+  },
+  {
+    "id": 950,
+    "name": "E38",
+    "brand_id": 12
+  },
+  {
+    "id": 951,
+    "name": 959,
+    "brand_id": 13
+  },
+  {
+    "id": 952,
+    "name": "CT1",
+    "brand_id": 14
+  },
+  {
+    "id": 953,
+    "name": "SIMK31",
+    "brand_id": 3
+  },
+  {
+    "id": 954,
+    "name": "IAW 4AC",
+    "brand_id": 2
+  },
+  {
+    "id": 955,
+    "name": "9GC",
+    "brand_id": 2
+  },
+  {
+    "id": 956,
+    "name": "ME7.6.2",
+    "brand_id": 1
+  },
+  {
+    "id": 957,
+    "name": "M1.5.5",
+    "brand_id": 1
+  },
+  {
+    "id": 958,
+    "name": "Multec",
+    "brand_id": 12
+  },
+  {
+    "id": 959,
+    "name": "DTI17",
+    "brand_id": 4
+  },
+  {
+    "id": 960,
+    "name": "ME1.5.5",
+    "brand_id": 1
+  },
+  {
+    "id": 961,
+    "name": "D42",
+    "brand_id": 5
+  },
+  {
+    "id": 962,
+    "name": "E84",
+    "brand_id": 12
+  },
+  {
+    "id": 963,
+    "name": "D52",
+    "brand_id": 5
+  },
+  {
+    "id": 964,
+    "name": "DCM3.7",
+    "brand_id": 4
+  },
+  {
+    "id": 965,
+    "name": "Multec",
+    "brand_id": 15
+  },
+  {
+    "id": 966,
+    "name": "E98",
+    "brand_id": 12
+  },
+  {
+    "id": 967,
+    "name": "SIMTEC 76",
+    "brand_id": 3
+  },
+  {
+    "id": 968,
+    "name": "E87",
+    "brand_id": 12
+  },
+  {
+    "id": 969,
+    "name": "DCM3.7AP",
+    "brand_id": 4
+  },
+  {
+    "id": 970,
+    "name": "SIM2K",
+    "brand_id": 5
+  },
+  {
+    "id": 971,
+    "name": "E39",
+    "brand_id": 12
+  },
+  {
+    "id": 972,
+    "name": "4R",
+    "brand_id": 3
+  },
+  {
+    "id": 973,
+    "name": "E86",
+    "brand_id": 12
+  },
+  {
+    "id": 974,
+    "name": "6O203D",
+    "brand_id": 2
+  },
+  {
+    "id": 975,
+    "name": "E6T1xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 976,
+    "name": "GPEC3",
+    "brand_id": 5
+  },
+  {
+    "id": 977,
+    "name": "GPEC2",
+    "brand_id": 5
+  },
+  {
+    "id": 978,
+    "name": "GPEC2A",
+    "brand_id": 5
+  },
+  {
+    "id": 979,
+    "name": "NGC3",
+    "brand_id": 16
+  },
+  {
+    "id": 980,
+    "name": "EGS53",
+    "brand_id": 3
+  },
+  {
+    "id": 981,
+    "name": "SIM90T",
+    "brand_id": 3
+  },
+  {
+    "id": 982,
+    "name": "MH8XXX",
+    "brand_id": 6
+  },
+  {
+    "id": 983,
+    "name": "MPS6",
+    "brand_id": 17
+  },
+  {
+    "id": 984,
+    "name": "MD1CS003",
+    "brand_id": 1
+  },
+  {
+    "id": 985,
+    "name": "VD56",
+    "brand_id": 18
+  },
+  {
+    "id": 986,
+    "name": "VD46.1",
+    "brand_id": 18
+  },
+  {
+    "id": 987,
+    "name": "SID801",
+    "brand_id": 5
+  },
+  {
+    "id": 988,
+    "name": "E6T47",
+    "brand_id": 6
+  },
+  {
+    "id": 989,
+    "name": "V46.11",
+    "brand_id": 18
+  },
+  {
+    "id": 990,
+    "name": "SID805",
+    "brand_id": 5
+  },
+  {
+    "id": 991,
+    "name": "V56.12",
+    "brand_id": 18
+  },
+  {
+    "id": 992,
+    "name": "VD46.13",
+    "brand_id": 18
+  },
+  {
+    "id": 993,
+    "name": "SID802",
+    "brand_id": 5
+  },
+  {
+    "id": 994,
+    "name": "IAW 48P2",
+    "brand_id": 2
+  },
+  {
+    "id": 995,
+    "name": "IAW 6LP",
+    "brand_id": 2
+  },
+  {
+    "id": 996,
+    "name": "N/A",
+    "brand_id": 18
+  },
+  {
+    "id": 997,
+    "name": "ME7.4.5",
+    "brand_id": 1
+  },
+  {
+    "id": 998,
+    "name": "SID806",
+    "brand_id": 5
+  },
+  {
+    "id": 999,
+    "name": "MPC",
+    "brand_id": 4
+  },
+  {
+    "id": 1000,
+    "name": "SID804",
+    "brand_id": 5
+  },
+  {
+    "id": 1001,
+    "name": "SID807",
+    "brand_id": 5
+  },
+  {
+    "id": 1002,
+    "name": "J34P",
+    "brand_id": 18
+  },
+  {
+    "id": 1003,
+    "name": "S2000",
+    "brand_id": 19
+  },
+  {
+    "id": 1004,
+    "name": "SID803A",
+    "brand_id": 5
+  },
+  {
+    "id": 1005,
+    "name": "DCM6.2A",
+    "brand_id": 4
+  },
+  {
+    "id": 1006,
+    "name": "IAW 6KPB",
+    "brand_id": 2
+  },
+  {
+    "id": 1007,
+    "name": "SID803",
+    "brand_id": 5
+  },
+  {
+    "id": 1008,
+    "name": "DCM3.4",
+    "brand_id": 4
+  },
+  {
+    "id": 1009,
+    "name": "E6T78",
+    "brand_id": 6
+  },
+  {
+    "id": 1010,
+    "name": "RA6",
+    "brand_id": 8
+  },
+  {
+    "id": 1011,
+    "name": "IAW 6LPC",
+    "brand_id": 2
+  },
+  {
+    "id": 1012,
+    "name": "DCM3.5",
+    "brand_id": 4
+  },
+  {
+    "id": 1013,
+    "name": "DCM7.1A",
+    "brand_id": 4
+  },
+  {
+    "id": 1014,
+    "name": "SID201",
+    "brand_id": 5
+  },
+  {
+    "id": 1015,
+    "name": "MG1CS042",
+    "brand_id": 1
+  },
+  {
+    "id": 1016,
+    "name": "SID208",
+    "brand_id": 5
+  },
+  {
+    "id": 1017,
+    "name": "DCU102",
+    "brand_id": 20
+  },
+  {
+    "id": 1018,
+    "name": "DCM6.2C",
+    "brand_id": 4
+  },
+  {
+    "id": 1019,
+    "name": "V34P",
+    "brand_id": 18
+  },
+  {
+    "id": 1020,
+    "name": "EDC16C0",
+    "brand_id": 1
+  },
+  {
+    "id": 1021,
+    "name": "MD1CS006",
+    "brand_id": 1
+  },
+  {
+    "id": 1022,
+    "name": "EMS3110",
+    "brand_id": 5
+  },
+  {
+    "id": 1023,
+    "name": "EMS3150",
+    "brand_id": 5
+  },
+  {
+    "id": 1024,
+    "name": "EMS3120",
+    "brand_id": 5
+  },
+  {
+    "id": 1025,
+    "name": "V42",
+    "brand_id": 18
+  },
+  {
+    "id": 1026,
+    "name": "V40",
+    "brand_id": 18
+  },
+  {
+    "id": 1027,
+    "name": "EMS3125",
+    "brand_id": 5
+  },
+  {
+    "id": 1028,
+    "name": "EMS3130",
+    "brand_id": 5
+  },
+  {
+    "id": 1029,
+    "name": "SID310",
+    "brand_id": 5
+  },
+  {
+    "id": 1030,
+    "name": "DCM1.2",
+    "brand_id": 4
+  },
+  {
+    "id": 1031,
+    "name": "SID305",
+    "brand_id": 5
+  },
+  {
+    "id": 1032,
+    "name": "SID306",
+    "brand_id": 5
+  },
+  {
+    "id": 1033,
+    "name": "V50",
+    "brand_id": 18
+  },
+  {
+    "id": 1034,
+    "name": "SIRIUS 32",
+    "brand_id": 3
+  },
+  {
+    "id": 1035,
+    "name": "ZF ES10-1002",
+    "brand_id": 1
+  },
+  {
+    "id": 1036,
+    "name": "EMS3132",
+    "brand_id": 5
+  },
+  {
+    "id": 1037,
+    "name": "MT60",
+    "brand_id": 4
+  },
+  {
+    "id": 1038,
+    "name": "R7F701202",
+    "brand_id": 8
+  },
+  {
+    "id": 1039,
+    "name": "NGC5",
+    "brand_id": 16
+  },
+  {
+    "id": 1040,
+    "name": "NGC4",
+    "brand_id": 16
+  },
+  {
+    "id": 1041,
+    "name": "8HP75",
+    "brand_id": 1
+  },
+  {
+    "id": 1042,
+    "name": "CM848B",
+    "brand_id": 16
+  },
+  {
+    "id": 1043,
+    "name": "CM849B",
+    "brand_id": 16
+  },
+  {
+    "id": 1044,
+    "name": "CM2100A",
+    "brand_id": 5
+  },
+  {
+    "id": 1045,
+    "name": "CM2200",
+    "brand_id": 5
+  },
+  {
+    "id": 1046,
+    "name": "CM2350B",
+    "brand_id": 5
+  },
+  {
+    "id": 1047,
+    "name": "39199-4ADN0",
+    "brand_id": 8
+  },
+  {
+    "id": 1048,
+    "name": "NGC5 HWII",
+    "brand_id": 16
+  },
+  {
+    "id": 1049,
+    "name": "IAW 6KPI",
+    "brand_id": 2
+  },
+  {
+    "id": 1050,
+    "name": "112731-8040",
+    "brand_id": 8
+  },
+  {
+    "id": 1051,
+    "name": "MED17.6.9",
+    "brand_id": 1
+  },
+  {
+    "id": 1052,
+    "name": "MED17.3.5 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 1053,
+    "name": "8GSF",
+    "brand_id": 2
+  },
+  {
+    "id": 1054,
+    "name": "8GMB",
+    "brand_id": 2
+  },
+  {
+    "id": 1055,
+    "name": "MJ8F3",
+    "brand_id": 2
+  },
+  {
+    "id": 1056,
+    "name": "GPEC4LM",
+    "brand_id": 5
+  },
+  {
+    "id": 1057,
+    "name": "IAW 10GF",
+    "brand_id": 2
+  },
+  {
+    "id": 1058,
+    "name": "EDC15C",
+    "brand_id": 1
+  },
+  {
+    "id": 1059,
+    "name": "ME7.3H4",
+    "brand_id": 1
+  },
+  {
+    "id": 1060,
+    "name": "IAW 7GF",
+    "brand_id": 2
+  },
+  {
+    "id": 1061,
+    "name": "IAW 5NF",
+    "brand_id": 2
+  },
+  {
+    "id": 1062,
+    "name": "MJD6JF",
+    "brand_id": 2
+  },
+  {
+    "id": 1063,
+    "name": "IAW 4SF",
+    "brand_id": 2
+  },
+  {
+    "id": 1064,
+    "name": "IAW 59F",
+    "brand_id": 2
+  },
+  {
+    "id": 1065,
+    "name": "CFC348F",
+    "brand_id": 2
+  },
+  {
+    "id": 1066,
+    "name": "IAW 5AF",
+    "brand_id": 2
+  },
+  {
+    "id": 1067,
+    "name": "IAW 4AF",
+    "brand_id": 2
+  },
+  {
+    "id": 1068,
+    "name": "MJH8DF.I1",
+    "brand_id": 2
+  },
+  {
+    "id": 1069,
+    "name": "IAW 4GF",
+    "brand_id": 2
+  },
+  {
+    "id": 1070,
+    "name": "IAW 59FB",
+    "brand_id": 2
+  },
+  {
+    "id": 1071,
+    "name": "8GSW",
+    "brand_id": 2
+  },
+  {
+    "id": 1072,
+    "name": "IAW 4DF",
+    "brand_id": 2
+  },
+  {
+    "id": 1073,
+    "name": "IAW 4CF",
+    "brand_id": 2
+  },
+  {
+    "id": 1074,
+    "name": "EMS2205",
+    "brand_id": 5
+  },
+  {
+    "id": 1075,
+    "name": "MG1CS016",
+    "brand_id": 1
+  },
+  {
+    "id": 1076,
+    "name": "MG1CS017",
+    "brand_id": 1
+  },
+  {
+    "id": 1077,
+    "name": "MED17.0.7",
+    "brand_id": 1
+  },
+  {
+    "id": 1078,
+    "name": "EMS2102",
+    "brand_id": 5
+  },
+  {
+    "id": 1079,
+    "name": "EMS2103",
+    "brand_id": 5
+  },
+  {
+    "id": 1080,
+    "name": "EEC-V",
+    "brand_id": 10
+  },
+  {
+    "id": 1081,
+    "name": "SID206",
+    "brand_id": 5
+  },
+  {
+    "id": 1082,
+    "name": "SIM29",
+    "brand_id": 5
+  },
+  {
+    "id": 1083,
+    "name": "EMS2204",
+    "brand_id": 5
+  },
+  {
+    "id": 1084,
+    "name": "EMS2511",
+    "brand_id": 5
+  },
+  {
+    "id": 1085,
+    "name": "SIM22",
+    "brand_id": 5
+  },
+  {
+    "id": 1086,
+    "name": "SID807EVO",
+    "brand_id": 5
+  },
+  {
+    "id": 1087,
+    "name": "DCM6.1",
+    "brand_id": 4
+  },
+  {
+    "id": 1088,
+    "name": "IAW 4CFR.MR",
+    "brand_id": 2
+  },
+  {
+    "id": 1089,
+    "name": "EMS2209",
+    "brand_id": 5
+  },
+  {
+    "id": 1090,
+    "name": "IAW 4CFR.VR",
+    "brand_id": 2
+  },
+  {
+    "id": 1091,
+    "name": "IAW 4AFR",
+    "brand_id": 2
+  },
+  {
+    "id": 1092,
+    "name": "EMS2211",
+    "brand_id": 5
+  },
+  {
+    "id": 1093,
+    "name": "MED17",
+    "brand_id": 1
+  },
+  {
+    "id": 1094,
+    "name": "MG1CS019",
+    "brand_id": 1
+  },
+  {
+    "id": 1095,
+    "name": "EMS24xx",
+    "brand_id": 5
+  },
+  {
+    "id": 1096,
+    "name": "SID209",
+    "brand_id": 5
+  },
+  {
+    "id": 1097,
+    "name": "MEDG17",
+    "brand_id": 1
+  },
+  {
+    "id": 1098,
+    "name": "MG1CS015",
+    "brand_id": 1
+  },
+  {
+    "id": 1099,
+    "name": "MG1CS018",
+    "brand_id": 1
+  },
+  {
+    "id": 1100,
+    "name": "MEDG9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 1101,
+    "name": "5WY8",
+    "brand_id": 5
+  },
+  {
+    "id": 1102,
+    "name": "SID902",
+    "brand_id": 5
+  },
+  {
+    "id": 1103,
+    "name": "MD1CP006",
+    "brand_id": 1
+  },
+  {
+    "id": 1104,
+    "name": "SIM21",
+    "brand_id": 3
+  },
+  {
+    "id": 1105,
+    "name": "SIM19",
+    "brand_id": 3
+  },
+  {
+    "id": 1106,
+    "name": "SIM22",
+    "brand_id": 3
+  },
+  {
+    "id": 1107,
+    "name": "SID804",
+    "brand_id": 3
+  },
+  {
+    "id": 1108,
+    "name": "SIM29",
+    "brand_id": 3
+  },
+  {
+    "id": 1109,
+    "name": "EEC-V",
+    "brand_id": 20
+  },
+  {
+    "id": 1110,
+    "name": "MPC555",
+    "brand_id": 4
+  },
+  {
+    "id": 1111,
+    "name": "SIM28",
+    "brand_id": 3
+  },
+  {
+    "id": 1112,
+    "name": "SID202",
+    "brand_id": 3
+  },
+  {
+    "id": 1113,
+    "name": "SID206",
+    "brand_id": 3
+  },
+  {
+    "id": 1114,
+    "name": "EMS",
+    "brand_id": 5
+  },
+  {
+    "id": 1115,
+    "name": "SID202",
+    "brand_id": 5
+  },
+  {
+    "id": 1116,
+    "name": "SIM19",
+    "brand_id": 5
+  },
+  {
+    "id": 1117,
+    "name": "SIM210",
+    "brand_id": 5
+  },
+  {
+    "id": 1118,
+    "name": "JDS0",
+    "brand_id": 5
+  },
+  {
+    "id": 1119,
+    "name": "M17.0.1",
+    "brand_id": 1
+  },
+  {
+    "id": 1120,
+    "name": "IAW 5SF8.K2",
+    "brand_id": 2
+  },
+  {
+    "id": 1121,
+    "name": "IAW 9GF",
+    "brand_id": 2
+  },
+  {
+    "id": 1122,
+    "name": "SIM24",
+    "brand_id": 5
+  },
+  {
+    "id": 1123,
+    "name": "EMS2302",
+    "brand_id": 5
+  },
+  {
+    "id": 1124,
+    "name": "EMS2513",
+    "brand_id": 5
+  },
+  {
+    "id": 1125,
+    "name": "EMS2512",
+    "brand_id": 5
+  },
+  {
+    "id": 1126,
+    "name": "EMS2101",
+    "brand_id": 5
+  },
+  {
+    "id": 1127,
+    "name": "EMS2207",
+    "brand_id": 5
+  },
+  {
+    "id": 1128,
+    "name": "E6T0xx",
+    "brand_id": 6
+  },
+  {
+    "id": 1129,
+    "name": "SID901",
+    "brand_id": 5
+  },
+  {
+    "id": 1130,
+    "name": "SID204",
+    "brand_id": 5
+  },
+  {
+    "id": 1131,
+    "name": "SID211",
+    "brand_id": 5
+  },
+  {
+    "id": 1132,
+    "name": "J1850",
+    "brand_id": 4
+  },
+  {
+    "id": 1133,
+    "name": "SIM2K-260",
+    "brand_id": 5
+  },
+  {
+    "id": 1134,
+    "name": "MD1CS012",
+    "brand_id": 1
+  },
+  {
+    "id": 1135,
+    "name": "DCM6.2AP",
+    "brand_id": 4
+  },
+  {
+    "id": 1136,
+    "name": "N/A",
+    "brand_id": 4
+  },
+  {
+    "id": 1137,
+    "name": "ME9.1",
+    "brand_id": 1
+  },
+  {
+    "id": 1138,
+    "name": "37820-RAH-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1139,
+    "name": "37820-5A2-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1140,
+    "name": "37820-R1A-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1141,
+    "name": "37820-Pxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1142,
+    "name": "37805-Pxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1143,
+    "name": "37805-Rxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1144,
+    "name": "37805-xxx-xxx",
+    "brand_id": 7
+  },
+  {
+    "id": 1145,
+    "name": "MG7.9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 1146,
+    "name": "CPGDSH1.26.1",
+    "brand_id": 21
+  },
+  {
+    "id": 1147,
+    "name": "MEG17.9.21",
+    "brand_id": 1
+  },
+  {
+    "id": 1148,
+    "name": "MEG17.9.13",
+    "brand_id": 1
+  },
+  {
+    "id": 1149,
+    "name": "CPEGD2.20.4",
+    "brand_id": 21
+  },
+  {
+    "id": 1150,
+    "name": "SIMK-43 #L",
+    "brand_id": 3
+  },
+  {
+    "id": 1151,
+    "name": "SIMK-43 #R",
+    "brand_id": 3
+  },
+  {
+    "id": 1152,
+    "name": "SIM2K-241",
+    "brand_id": 5
+  },
+  {
+    "id": 1153,
+    "name": "MEG17.9.2",
+    "brand_id": 1
+  },
+  {
+    "id": 1154,
+    "name": "SIM2K-341",
+    "brand_id": 5
+  },
+  {
+    "id": 1155,
+    "name": "SIM2K-251",
+    "brand_id": 5
+  },
+  {
+    "id": 1156,
+    "name": "MG7.9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 1157,
+    "name": "SIM2K-305",
+    "brand_id": 5
+  },
+  {
+    "id": 1158,
+    "name": "CPEGP2.10.1",
+    "brand_id": 21
+  },
+  {
+    "id": 1159,
+    "name": "SIM2K-141",
+    "brand_id": 5
+  },
+  {
+    "id": 1160,
+    "name": "MT86",
+    "brand_id": 4
+  },
+  {
+    "id": 1161,
+    "name": "TC80",
+    "brand_id": 21
+  },
+  {
+    "id": 1162,
+    "name": "KME1.9.3",
+    "brand_id": 21
+  },
+  {
+    "id": 1163,
+    "name": "DCU17PC42",
+    "brand_id": 1
+  },
+  {
+    "id": 1164,
+    "name": "CPEGD 2.20.2",
+    "brand_id": 21
+  },
+  {
+    "id": 1165,
+    "name": "CPEGD 2.20.1",
+    "brand_id": 21
+  },
+  {
+    "id": 1166,
+    "name": "SIMK-43",
+    "brand_id": 3
+  },
+  {
+    "id": 1167,
+    "name": "SIM2K-47 #L",
+    "brand_id": 3
+  },
+  {
+    "id": 1168,
+    "name": "SIM2K-47 #R",
+    "brand_id": 3
+  },
+  {
+    "id": 1169,
+    "name": "SIM2K-250",
+    "brand_id": 5
+  },
+  {
+    "id": 1170,
+    "name": "CPEGD2.20.3",
+    "brand_id": 21
+  },
+  {
+    "id": 1171,
+    "name": "SIMK-41",
+    "brand_id": 3
+  },
+  {
+    "id": 1172,
+    "name": "E2T7xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1173,
+    "name": "SIM2K-242",
+    "brand_id": 5
+  },
+  {
+    "id": 1174,
+    "name": "SIM2K-240",
+    "brand_id": 5
+  },
+  {
+    "id": 1175,
+    "name": "DDCR",
+    "brand_id": 4
+  },
+  {
+    "id": 1176,
+    "name": "IAW 4CH",
+    "brand_id": 2
+  },
+  {
+    "id": 1177,
+    "name": "MEDG17.9.8",
+    "brand_id": 1
+  },
+  {
+    "id": 1178,
+    "name": "MEC100-xxx (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1179,
+    "name": "MEC107 (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1180,
+    "name": "MEC73 (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1181,
+    "name": "MEC108 (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1182,
+    "name": "DEA030-2xx (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1183,
+    "name": "VGS2-FDCT",
+    "brand_id": 5
+  },
+  {
+    "id": 1184,
+    "name": "3.N5",
+    "brand_id": 4
+  },
+  {
+    "id": 1185,
+    "name": "NEC015",
+    "brand_id": 22
+  },
+  {
+    "id": 1186,
+    "name": "CRD3",
+    "brand_id": 4
+  },
+  {
+    "id": 1187,
+    "name": "NEC029",
+    "brand_id": 22
+  },
+  {
+    "id": 1188,
+    "name": "NEC030",
+    "brand_id": 22
+  },
+  {
+    "id": 1189,
+    "name": 94661024,
+    "brand_id": 8
+  },
+  {
+    "id": 1190,
+    "name": "4Jxx",
+    "brand_id": 23
+  },
+  {
+    "id": 1191,
+    "name": "MPC56x",
+    "brand_id": 4
+  },
+  {
+    "id": 1192,
+    "name": "L4K3",
+    "brand_id": 23
+  },
+  {
+    "id": 1193,
+    "name": "N/A",
+    "brand_id": 23
+  },
+  {
+    "id": 1194,
+    "name": "275700-1534",
+    "brand_id": 8
+  },
+  {
+    "id": 1195,
+    "name": "M5/M5S",
+    "brand_id": 23
+  },
+  {
+    "id": 1196,
+    "name": "275722-1530",
+    "brand_id": 8
+  },
+  {
+    "id": 1197,
+    "name": "MED17.9.9",
+    "brand_id": 1
+  },
+  {
+    "id": 1198,
+    "name": "MEDC17.9",
+    "brand_id": 1
+  },
+  {
+    "id": 1199,
+    "name": "MG1CS028",
+    "brand_id": 1
+  },
+  {
+    "id": 1200,
+    "name": "MB079700",
+    "brand_id": 8
+  },
+  {
+    "id": 1201,
+    "name": "MB279700",
+    "brand_id": 8
+  },
+  {
+    "id": 1202,
+    "name": "P5.0SC",
+    "brand_id": 8
+  },
+  {
+    "id": 1203,
+    "name": "GPEC4",
+    "brand_id": 5
+  },
+  {
+    "id": 1204,
+    "name": "DCM3.5 - CRD2",
+    "brand_id": 4
+  },
+  {
+    "id": 1205,
+    "name": "8GML",
+    "brand_id": 2
+  },
+  {
+    "id": 1206,
+    "name": "DCM",
+    "brand_id": 4
+  },
+  {
+    "id": 1207,
+    "name": "EH8",
+    "brand_id": 21
+  },
+  {
+    "id": 1208,
+    "name": "DCM3.2",
+    "brand_id": 4
+  },
+  {
+    "id": 1209,
+    "name": "KTS3",
+    "brand_id": 21
+  },
+  {
+    "id": 1210,
+    "name": "TC60",
+    "brand_id": 21
+  },
+  {
+    "id": 1211,
+    "name": "ME17.9",
+    "brand_id": 1
+  },
+  {
+    "id": 1212,
+    "name": "SIM2K",
+    "brand_id": 3
+  },
+  {
+    "id": 1213,
+    "name": "EDC17CP62",
+    "brand_id": 1
+  },
+  {
+    "id": 1214,
+    "name": "CPGPSH2.14.1",
+    "brand_id": 21
+  },
+  {
+    "id": 1215,
+    "name": "MEG17.9.12",
+    "brand_id": 1
+  },
+  {
+    "id": 1216,
+    "name": "39106-3945x",
+    "brand_id": 21
+  },
+  {
+    "id": 1217,
+    "name": "LIE",
+    "brand_id": 24
+  },
+  {
+    "id": 1218,
+    "name": "05S",
+    "brand_id": 24
+  },
+  {
+    "id": 1219,
+    "name": "CFC311",
+    "brand_id": 2
+  },
+  {
+    "id": 1220,
+    "name": "MEMS3",
+    "brand_id": 25
+  },
+  {
+    "id": 1221,
+    "name": "MB279700-94xx",
+    "brand_id": 8
+  },
+  {
+    "id": 1222,
+    "name": "SID203",
+    "brand_id": 5
+  },
+  {
+    "id": 1223,
+    "name": "89661-04xxx (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1224,
+    "name": "275036-1470 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1225,
+    "name": "275036-2440 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1226,
+    "name": "275036-8730 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1227,
+    "name": "275036-3410",
+    "brand_id": 8
+  },
+  {
+    "id": 1228,
+    "name": "175822-773 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1229,
+    "name": "275036-3410 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1230,
+    "name": "275036-7461 (CAN_1)",
+    "brand_id": 8
+  },
+  {
+    "id": 1231,
+    "name": "275036-8730",
+    "brand_id": 8
+  },
+  {
+    "id": 1232,
+    "name": "275036-5920 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1233,
+    "name": "89661-78100",
+    "brand_id": 8
+  },
+  {
+    "id": 1234,
+    "name": "275063-0360",
+    "brand_id": 8
+  },
+  {
+    "id": 1235,
+    "name": "275036-6110",
+    "brand_id": 8
+  },
+  {
+    "id": 1236,
+    "name": "T4E",
+    "brand_id": 14
+  },
+  {
+    "id": 1237,
+    "name": "T6E",
+    "brand_id": 14
+  },
+  {
+    "id": 1238,
+    "name": "K4",
+    "brand_id": 14
+  },
+  {
+    "id": 1239,
+    "name": "T4",
+    "brand_id": 14
+  },
+  {
+    "id": 1240,
+    "name": "MG1CS080",
+    "brand_id": 1
+  },
+  {
+    "id": 1241,
+    "name": "DCM2.7AP",
+    "brand_id": 4
+  },
+  {
+    "id": 1242,
+    "name": "MD1CS018",
+    "brand_id": 1
+  },
+  {
+    "id": 1243,
+    "name": "SIM210",
+    "brand_id": 3
+  },
+  {
+    "id": 1244,
+    "name": "ZJ77",
+    "brand_id": 8
+  },
+  {
+    "id": 1245,
+    "name": "ZYE9",
+    "brand_id": 8
+  },
+  {
+    "id": 1246,
+    "name": "P5",
+    "brand_id": 8
+  },
+  {
+    "id": 1247,
+    "name": "S5xx",
+    "brand_id": 8
+  },
+  {
+    "id": 1248,
+    "name": "Z601",
+    "brand_id": 8
+  },
+  {
+    "id": 1249,
+    "name": "E6T58xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1250,
+    "name": "E6T58x",
+    "brand_id": 6
+  },
+  {
+    "id": 1251,
+    "name": "E6T5x",
+    "brand_id": 6
+  },
+  {
+    "id": 1252,
+    "name": "RF7X",
+    "brand_id": 8
+  },
+  {
+    "id": 1253,
+    "name": "R2AB",
+    "brand_id": 8
+  },
+  {
+    "id": 1254,
+    "name": "SH12",
+    "brand_id": 8
+  },
+  {
+    "id": 1255,
+    "name": "E6T6x",
+    "brand_id": 6
+  },
+  {
+    "id": 1256,
+    "name": "D08",
+    "brand_id": 8
+  },
+  {
+    "id": 1257,
+    "name": "S80",
+    "brand_id": 8
+  },
+  {
+    "id": 1258,
+    "name": "RF8K",
+    "brand_id": 8
+  },
+  {
+    "id": 1259,
+    "name": "RF8X",
+    "brand_id": 8
+  },
+  {
+    "id": 1260,
+    "name": "RF8G",
+    "brand_id": 8
+  },
+  {
+    "id": 1261,
+    "name": "SH1",
+    "brand_id": 8
+  },
+  {
+    "id": 1262,
+    "name": "SH1R",
+    "brand_id": 8
+  },
+  {
+    "id": 1263,
+    "name": "L3Bx",
+    "brand_id": 6
+  },
+  {
+    "id": 1264,
+    "name": "SH9V",
+    "brand_id": 8
+  },
+  {
+    "id": 1265,
+    "name": "SH0",
+    "brand_id": 8
+  },
+  {
+    "id": 1266,
+    "name": "EDC16C7-7",
+    "brand_id": 1
+  },
+  {
+    "id": 1267,
+    "name": "PYFB",
+    "brand_id": 8
+  },
+  {
+    "id": 1268,
+    "name": "R2AX",
+    "brand_id": 8
+  },
+  {
+    "id": 1269,
+    "name": "DCU17PC",
+    "brand_id": 1
+  },
+  {
+    "id": 1270,
+    "name": "LFGS",
+    "brand_id": 8
+  },
+  {
+    "id": 1271,
+    "name": 27522,
+    "brand_id": 8
+  },
+  {
+    "id": 1272,
+    "name": "FPV1EA",
+    "brand_id": 6
+  },
+  {
+    "id": 1273,
+    "name": "N3J1",
+    "brand_id": 8
+  },
+  {
+    "id": 1274,
+    "name": "L3T4",
+    "brand_id": 8
+  },
+  {
+    "id": 1275,
+    "name": "MD1CP001",
+    "brand_id": 1
+  },
+  {
+    "id": 1276,
+    "name": "SIM266",
+    "brand_id": 3
+  },
+  {
+    "id": 1277,
+    "name": "SID307",
+    "brand_id": 5
+  },
+  {
+    "id": 1278,
+    "name": "CRD3E.1",
+    "brand_id": 4
+  },
+  {
+    "id": 1279,
+    "name": "MG1CP002",
+    "brand_id": 1
+  },
+  {
+    "id": 1280,
+    "name": "SIM271DE20",
+    "brand_id": 5
+  },
+  {
+    "id": 1281,
+    "name": "SIM271KE20",
+    "brand_id": 5
+  },
+  {
+    "id": 1282,
+    "name": "SIM4LKE",
+    "brand_id": 3
+  },
+  {
+    "id": 1283,
+    "name": "MED9.7",
+    "brand_id": 1
+  },
+  {
+    "id": 1284,
+    "name": "EGS52",
+    "brand_id": 3
+  },
+  {
+    "id": 1285,
+    "name": "DCM3.2 - CRD.11",
+    "brand_id": 4
+  },
+  {
+    "id": 1286,
+    "name": "CRD2",
+    "brand_id": 4
+  },
+  {
+    "id": 1287,
+    "name": "CRD3S2",
+    "brand_id": 4
+  },
+  {
+    "id": 1288,
+    "name": "CRD3P.D1",
+    "brand_id": 4
+  },
+  {
+    "id": 1289,
+    "name": "ME2.0",
+    "brand_id": 1
+  },
+  {
+    "id": 1290,
+    "name": "ME2.7.1",
+    "brand_id": 1
+  },
+  {
+    "id": 1291,
+    "name": "CRD3.F1",
+    "brand_id": 4
+  },
+  {
+    "id": 1292,
+    "name": "SIM4LE",
+    "brand_id": 3
+  },
+  {
+    "id": 1293,
+    "name": "CRD3.7",
+    "brand_id": 4
+  },
+  {
+    "id": 1294,
+    "name": "SIM4LSE",
+    "brand_id": 3
+  },
+  {
+    "id": 1295,
+    "name": "EDC17C01",
+    "brand_id": 1
+  },
+  {
+    "id": 1296,
+    "name": "CRD3P.B0",
+    "brand_id": 4
+  },
+  {
+    "id": 1297,
+    "name": "CRD3P.C0",
+    "brand_id": 4
+  },
+  {
+    "id": 1298,
+    "name": "CRD3P.G0",
+    "brand_id": 4
+  },
+  {
+    "id": 1299,
+    "name": "EMS 2000",
+    "brand_id": 3
+  },
+  {
+    "id": 1300,
+    "name": "E6T0x",
+    "brand_id": 6
+  },
+  {
+    "id": 1301,
+    "name": "E6T348xx",
+    "brand_id": 6
+  },
+  {
+    "id": 1302,
+    "name": "E2T7318x",
+    "brand_id": 6
+  },
+  {
+    "id": 1303,
+    "name": "E6T72xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1304,
+    "name": "E6T73xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1305,
+    "name": "E6T42/E6T73",
+    "brand_id": 6
+  },
+  {
+    "id": 1306,
+    "name": "EDC16C33",
+    "brand_id": 1
+  },
+  {
+    "id": 1307,
+    "name": "E6T424xx H3ZE",
+    "brand_id": 6
+  },
+  {
+    "id": 1308,
+    "name": "E6T47xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1309,
+    "name": "MEC100-xxx",
+    "brand_id": 22
+  },
+  {
+    "id": 1310,
+    "name": "E6T44xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1311,
+    "name": "E6T41xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1312,
+    "name": "IAW 4GM",
+    "brand_id": 2
+  },
+  {
+    "id": 1313,
+    "name": "RHF4",
+    "brand_id": 8
+  },
+  {
+    "id": 1314,
+    "name": "IAW 4GT",
+    "brand_id": 2
+  },
+  {
+    "id": 1315,
+    "name": "275722-4810",
+    "brand_id": 8
+  },
+  {
+    "id": 1316,
+    "name": "E6T74xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1317,
+    "name": "E6T424xx",
+    "brand_id": 6
+  },
+  {
+    "id": 1318,
+    "name": "E6T78879 H",
+    "brand_id": 6
+  },
+  {
+    "id": 1319,
+    "name": "E6T43xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1320,
+    "name": "E6T310x",
+    "brand_id": 6
+  },
+  {
+    "id": 1321,
+    "name": "E6T469xx",
+    "brand_id": 6
+  },
+  {
+    "id": 1322,
+    "name": "G1Tx",
+    "brand_id": 6
+  },
+  {
+    "id": 1323,
+    "name": "E6T38xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1324,
+    "name": "E6T97XX",
+    "brand_id": 6
+  },
+  {
+    "id": 1325,
+    "name": "IAW 4AM",
+    "brand_id": 2
+  },
+  {
+    "id": 1326,
+    "name": "IAW 4DM",
+    "brand_id": 2
+  },
+  {
+    "id": 1327,
+    "name": "E2T71xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1328,
+    "name": "E6T76xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1329,
+    "name": "E6T36xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1330,
+    "name": "E2T79xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1331,
+    "name": "E6T32xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1332,
+    "name": "E6T49xxx",
+    "brand_id": 6
+  },
+  {
+    "id": 1333,
+    "name": "E6T83276",
+    "brand_id": 6
+  },
+  {
+    "id": 1334,
+    "name": "IAW 4CM",
+    "brand_id": 2
+  },
+  {
+    "id": 1335,
+    "name": "E6T85774",
+    "brand_id": 6
+  },
+  {
+    "id": 1336,
+    "name": "HW 1 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1337,
+    "name": "HW 4 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1338,
+    "name": "MEC20 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1339,
+    "name": "MEC30-07x (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1340,
+    "name": "E1x",
+    "brand_id": 8
+  },
+  {
+    "id": 1341,
+    "name": "D3",
+    "brand_id": 8
+  },
+  {
+    "id": 1342,
+    "name": "A56-XXX",
+    "brand_id": 22
+  },
+  {
+    "id": 1343,
+    "name": "MEC370-900 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1344,
+    "name": "MEC37-580",
+    "brand_id": 22
+  },
+  {
+    "id": 1345,
+    "name": "112731-9140",
+    "brand_id": 8
+  },
+  {
+    "id": 1346,
+    "name": "MEC38-490 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1347,
+    "name": "NEC032",
+    "brand_id": 22
+  },
+  {
+    "id": 1348,
+    "name": "HW 3 (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1349,
+    "name": "HPGNV (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1350,
+    "name": "MEC940-xxx (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1351,
+    "name": "EMS3155",
+    "brand_id": 5
+  },
+  {
+    "id": 1352,
+    "name": "SID301",
+    "brand_id": 5
+  },
+  {
+    "id": 1353,
+    "name": "BED301-xxx (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1354,
+    "name": "BED431-xxx",
+    "brand_id": 22
+  },
+  {
+    "id": 1355,
+    "name": "A56-E45",
+    "brand_id": 22
+  },
+  {
+    "id": 1356,
+    "name": "23710-5Y222 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1357,
+    "name": "MEC37-xxx",
+    "brand_id": 22
+  },
+  {
+    "id": 1358,
+    "name": "MEC32-100",
+    "brand_id": 22
+  },
+  {
+    "id": 1359,
+    "name": "MEC100",
+    "brand_id": 22
+  },
+  {
+    "id": 1360,
+    "name": "HP",
+    "brand_id": 8
+  },
+  {
+    "id": 1361,
+    "name": "H1",
+    "brand_id": 8
+  },
+  {
+    "id": 1362,
+    "name": 23710,
+    "brand_id": 8
+  },
+  {
+    "id": 1363,
+    "name": "SID309",
+    "brand_id": 5
+  },
+  {
+    "id": 1364,
+    "name": "SID304",
+    "brand_id": 5
+  },
+  {
+    "id": 1365,
+    "name": "ME38-310",
+    "brand_id": 22
+  },
+  {
+    "id": 1366,
+    "name": "DCU17CP34",
+    "brand_id": 1
+  },
+  {
+    "id": 1367,
+    "name": "MEC78-xxx (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1368,
+    "name": "MEC35-xxx (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1369,
+    "name": "MEC23-xxx (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1370,
+    "name": "SID303",
+    "brand_id": 5
+  },
+  {
+    "id": 1371,
+    "name": "BED410",
+    "brand_id": 22
+  },
+  {
+    "id": 1372,
+    "name": "A56-B76 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1373,
+    "name": "MEC951",
+    "brand_id": 22
+  },
+  {
+    "id": 1374,
+    "name": "MEC90-xxx (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1375,
+    "name": "A56-C1x (CAN)",
+    "brand_id": 22
+  },
+  {
+    "id": 1376,
+    "name": "NEC033",
+    "brand_id": 22
+  },
+  {
+    "id": 1377,
+    "name": "A56-R18 (K-LINE)",
+    "brand_id": 22
+  },
+  {
+    "id": 1378,
+    "name": "E80",
+    "brand_id": 12
+  },
+  {
+    "id": 1379,
+    "name": "MJD603.SA",
+    "brand_id": 2
+  },
+  {
+    "id": 1380,
+    "name": "E6T900 M0",
+    "brand_id": 6
+  },
+  {
+    "id": 1381,
+    "name": "ME7.6.1",
+    "brand_id": 1
+  },
+  {
+    "id": 1382,
+    "name": "DECE01",
+    "brand_id": 8
+  },
+  {
+    "id": 1383,
+    "name": "Multec S (F)",
+    "brand_id": 15
+  },
+  {
+    "id": 1384,
+    "name": "SIMTEC 70",
+    "brand_id": 3
+  },
+  {
+    "id": 1385,
+    "name": "MJD602.A6",
+    "brand_id": 2
+  },
+  {
+    "id": 1386,
+    "name": "MT35E",
+    "brand_id": 15
+  },
+  {
+    "id": 1387,
+    "name": "SIMTEC 75.1",
+    "brand_id": 3
+  },
+  {
+    "id": 1388,
+    "name": "SIMTEC 71",
+    "brand_id": 3
+  },
+  {
+    "id": 1389,
+    "name": "SIMTEC 71.5",
+    "brand_id": 3
+  },
+  {
+    "id": 1390,
+    "name": "GMPT E-15",
+    "brand_id": 15
+  },
+  {
+    "id": 1391,
+    "name": "MJD8F3",
+    "brand_id": 2
+  },
+  {
+    "id": 1392,
+    "name": "MJD6O2.03D",
+    "brand_id": 2
+  },
+  {
+    "id": 1393,
+    "name": "MJD603.S3",
+    "brand_id": 2
+  },
+  {
+    "id": 1394,
+    "name": "DEC30",
+    "brand_id": 8
+  },
+  {
+    "id": 1395,
+    "name": "MJD602.M1",
+    "brand_id": 2
+  },
+  {
+    "id": 1396,
+    "name": "ME7.6.3",
+    "brand_id": 1
+  },
+  {
+    "id": 1397,
+    "name": "MG1CS032",
+    "brand_id": 1
+  },
+  {
+    "id": 1398,
+    "name": "ME9.6",
+    "brand_id": 1
+  },
+  {
+    "id": 1399,
+    "name": 8,
+    "brand_id": 26
+  },
+  {
+    "id": 1400,
+    "name": "SIMTEC 81.1",
+    "brand_id": 3
+  },
+  {
+    "id": 1401,
+    "name": "D0600",
+    "brand_id": 8
+  },
+  {
+    "id": 1402,
+    "name": "GMPT E-16",
+    "brand_id": 15
+  },
+  {
+    "id": 1403,
+    "name": "D0100",
+    "brand_id": 8
+  },
+  {
+    "id": 1404,
+    "name": "MT35E",
+    "brand_id": 12
+  },
+  {
+    "id": 1405,
+    "name": "DECE02",
+    "brand_id": 8
+  },
+  {
+    "id": 1406,
+    "name": "IAW 6LPA",
+    "brand_id": 2
+  },
+  {
+    "id": 1407,
+    "name": "V34",
+    "brand_id": 18
+  },
+  {
+    "id": 1408,
+    "name": "SID801",
+    "brand_id": 3
+  },
+  {
+    "id": 1409,
+    "name": "SDI21.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1410,
+    "name": "MG1CP007",
+    "brand_id": 1
+  },
+  {
+    "id": 1411,
+    "name": "SDI3",
+    "brand_id": 5
+  },
+  {
+    "id": 1412,
+    "name": "SDI9",
+    "brand_id": 5
+  },
+  {
+    "id": 1413,
+    "name": "SDI21.2",
+    "brand_id": 5
+  },
+  {
+    "id": 1414,
+    "name": "M5.2.2",
+    "brand_id": 1
+  },
+  {
+    "id": 1415,
+    "name": "MED17.1.11",
+    "brand_id": 1
+  },
+  {
+    "id": 1416,
+    "name": "SDI21.3",
+    "brand_id": 5
+  },
+  {
+    "id": 1417,
+    "name": "SDI4",
+    "brand_id": 5
+  },
+  {
+    "id": 1418,
+    "name": "SDI8",
+    "brand_id": 5
+  },
+  {
+    "id": 1419,
+    "name": "SDI10.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1420,
+    "name": "SDI10.2",
+    "brand_id": 5
+  },
+  {
+    "id": 1421,
+    "name": "SDI7",
+    "brand_id": 5
+  },
+  {
+    "id": 1422,
+    "name": "SDI6",
+    "brand_id": 5
+  },
+  {
+    "id": 1423,
+    "name": "PW5xx",
+    "brand_id": 3
+  },
+  {
+    "id": 1424,
+    "name": "PW8xx",
+    "brand_id": 3
+  },
+  {
+    "id": 1425,
+    "name": "Getrag DC4",
+    "brand_id": 5
+  },
+  {
+    "id": 1426,
+    "name": "SIM32",
+    "brand_id": 3
+  },
+  {
+    "id": 1427,
+    "name": "IAW 5NR",
+    "brand_id": 2
+  },
+  {
+    "id": 1428,
+    "name": "SIRIUS32",
+    "brand_id": 3
+  },
+  {
+    "id": 1429,
+    "name": "SIRIUS34",
+    "brand_id": 3
+  },
+  {
+    "id": 1430,
+    "name": "V50.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1431,
+    "name": "S3000",
+    "brand_id": 19
+  },
+  {
+    "id": 1432,
+    "name": "MEC92",
+    "brand_id": 22
+  },
+  {
+    "id": 1433,
+    "name": "BED434",
+    "brand_id": 22
+  },
+  {
+    "id": 1434,
+    "name": "BED501",
+    "brand_id": 22
+  },
+  {
+    "id": 1435,
+    "name": "DH5",
+    "brand_id": 8
+  },
+  {
+    "id": 1436,
+    "name": "6DE1",
+    "brand_id": 8
+  },
+  {
+    "id": 1437,
+    "name": "BED43C",
+    "brand_id": 22
+  },
+  {
+    "id": 1438,
+    "name": "EMS3134",
+    "brand_id": 5
+  },
+  {
+    "id": 1439,
+    "name": "MEC121-XXX",
+    "brand_id": 22
+  },
+  {
+    "id": 1440,
+    "name": "S2000RPM",
+    "brand_id": 19
+  },
+  {
+    "id": 1441,
+    "name": "MEC800",
+    "brand_id": 22
+  },
+  {
+    "id": 1442,
+    "name": "EWR20-0XX",
+    "brand_id": 22
+  },
+  {
+    "id": 1443,
+    "name": "MG1CS024 (DME_8CT0)",
+    "brand_id": 1
+  },
+  {
+    "id": 1444,
+    "name": 7,
+    "brand_id": 26
+  },
+  {
+    "id": 1445,
+    "name": "8 HFQ",
+    "brand_id": 26
+  },
+  {
+    "id": 1446,
+    "name": "8 LFQ",
+    "brand_id": 26
+  },
+  {
+    "id": 1447,
+    "name": "MD1CS089",
+    "brand_id": 1
+  },
+  {
+    "id": 1448,
+    "name": "IAW 4HV",
+    "brand_id": 2
+  },
+  {
+    "id": 1449,
+    "name": "Simos 10.22",
+    "brand_id": 5
+  },
+  {
+    "id": 1450,
+    "name": "7GVE",
+    "brand_id": 2
+  },
+  {
+    "id": 1451,
+    "name": "EDC15VM",
+    "brand_id": 1
+  },
+  {
+    "id": 1452,
+    "name": "Simos 3",
+    "brand_id": 5
+  },
+  {
+    "id": 1453,
+    "name": "Simos 9.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1454,
+    "name": "Simos 11.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1455,
+    "name": "Simos 10.14",
+    "brand_id": 5
+  },
+  {
+    "id": 1456,
+    "name": "IAW 4AV",
+    "brand_id": 2
+  },
+  {
+    "id": 1457,
+    "name": "ZF ASG SQ100",
+    "brand_id": 1
+  },
+  {
+    "id": 1458,
+    "name": "Simos 15.25",
+    "brand_id": 5
+  },
+  {
+    "id": 1459,
+    "name": "E6T424",
+    "brand_id": 6
+  },
+  {
+    "id": 1460,
+    "name": "MH8304F",
+    "brand_id": 6
+  },
+  {
+    "id": 1461,
+    "name": "G2T601x",
+    "brand_id": 6
+  },
+  {
+    "id": 1462,
+    "name": "SH7058 CJ",
+    "brand_id": 8
+  },
+  {
+    "id": 1463,
+    "name": "112431-4840",
+    "brand_id": 8
+  },
+  {
+    "id": 1464,
+    "name": "SH7058 DM",
+    "brand_id": 8
+  },
+  {
+    "id": 1465,
+    "name": "SH7059 DT",
+    "brand_id": 8
+  },
+  {
+    "id": 1466,
+    "name": "SH72543",
+    "brand_id": 8
+  },
+  {
+    "id": 1467,
+    "name": "SH7058 KS",
+    "brand_id": 8
+  },
+  {
+    "id": 1468,
+    "name": "SH7058 GW",
+    "brand_id": 8
+  },
+  {
+    "id": 1469,
+    "name": "SH7055 112300-0430",
+    "brand_id": 8
+  },
+  {
+    "id": 1470,
+    "name": "68HC16",
+    "brand_id": 8
+  },
+  {
+    "id": 1471,
+    "name": "SH7055 112200-8481",
+    "brand_id": 8
+  },
+  {
+    "id": 1472,
+    "name": "SH7059",
+    "brand_id": 22
+  },
+  {
+    "id": 1473,
+    "name": "DEF003",
+    "brand_id": 22
+  },
+  {
+    "id": 1474,
+    "name": "DEF006",
+    "brand_id": 22
+  },
+  {
+    "id": 1475,
+    "name": "112731-5040",
+    "brand_id": 8
+  },
+  {
+    "id": 1476,
+    "name": "062J0",
+    "brand_id": 8
+  },
+  {
+    "id": 1477,
+    "name": "MJD602.04",
+    "brand_id": 2
+  },
+  {
+    "id": 1478,
+    "name": "SH7058 112231-6810",
+    "brand_id": 8
+  },
+  {
+    "id": 1479,
+    "name": "EDC17CP17",
+    "brand_id": 1
+  },
+  {
+    "id": 1480,
+    "name": "275036-1152",
+    "brand_id": 8
+  },
+  {
+    "id": 1481,
+    "name": "GW",
+    "brand_id": 8
+  },
+  {
+    "id": 1482,
+    "name": "SH7058",
+    "brand_id": 8
+  },
+  {
+    "id": 1483,
+    "name": "E6T90975H",
+    "brand_id": 6
+  },
+  {
+    "id": 1484,
+    "name": "E6T91695H",
+    "brand_id": 6
+  },
+  {
+    "id": 1485,
+    "name": "E6T91571H",
+    "brand_id": 6
+  },
+  {
+    "id": 1486,
+    "name": "N/A",
+    "brand_id": 8
+  },
+  {
+    "id": 1487,
+    "name": "33920-65D6",
+    "brand_id": 6
+  },
+  {
+    "id": 1488,
+    "name": "078K0",
+    "brand_id": 8
+  },
+  {
+    "id": 1489,
+    "name": "K1",
+    "brand_id": 8
+  },
+  {
+    "id": 1490,
+    "name": "E6T172",
+    "brand_id": 6
+  },
+  {
+    "id": 1491,
+    "name": "076Jx",
+    "brand_id": 8
+  },
+  {
+    "id": 1492,
+    "name": "E6T91977HP",
+    "brand_id": 6
+  },
+  {
+    "id": 1493,
+    "name": "057L1",
+    "brand_id": 8
+  },
+  {
+    "id": 1494,
+    "name": "MG1CS026",
+    "brand_id": 1
+  },
+  {
+    "id": 1495,
+    "name": "MED17.8.X",
+    "brand_id": 1
+  },
+  {
+    "id": 1496,
+    "name": "ME17.8.XX",
+    "brand_id": 1
+  },
+  {
+    "id": 1497,
+    "name": "MJD6O2.04",
+    "brand_id": 2
+  },
+  {
+    "id": 1498,
+    "name": "MJD8DS.P1",
+    "brand_id": 2
+  },
+  {
+    "id": 1499,
+    "name": "33920-62J0",
+    "brand_id": 8
+  },
+  {
+    "id": 1500,
+    "name": "33920-xxxx",
+    "brand_id": 8
+  },
+  {
+    "id": 1501,
+    "name": "DCM3.1",
+    "brand_id": 4
+  },
+  {
+    "id": 1502,
+    "name": "275036-4820",
+    "brand_id": 8
+  },
+  {
+    "id": 1503,
+    "name": "275036-4520",
+    "brand_id": 8
+  },
+  {
+    "id": 1504,
+    "name": "275036-2110",
+    "brand_id": 8
+  },
+  {
+    "id": 1505,
+    "name": "175822-762 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1506,
+    "name": "175822-773",
+    "brand_id": 8
+  },
+  {
+    "id": 1507,
+    "name": "275036-3740",
+    "brand_id": 8
+  },
+  {
+    "id": 1508,
+    "name": "(CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1509,
+    "name": "275036-5650 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1510,
+    "name": "175822-762 (K-Line)",
+    "brand_id": 8
+  },
+  {
+    "id": 1511,
+    "name": "275922-022 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1512,
+    "name": "(K-Line)",
+    "brand_id": 8
+  },
+  {
+    "id": 1513,
+    "name": "275036-5280 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1514,
+    "name": "275036-6941  HW2 (K-Line)",
+    "brand_id": 8
+  },
+  {
+    "id": 1515,
+    "name": "275036-9160",
+    "brand_id": 8
+  },
+  {
+    "id": 1516,
+    "name": "175822-887",
+    "brand_id": 8
+  },
+  {
+    "id": 1517,
+    "name": "275036-1152 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1518,
+    "name": "211941-48900930",
+    "brand_id": 8
+  },
+  {
+    "id": 1519,
+    "name": "175822-762",
+    "brand_id": 8
+  },
+  {
+    "id": 1520,
+    "name": "275036-7341",
+    "brand_id": 8
+  },
+  {
+    "id": 1521,
+    "name": "21175-2540",
+    "brand_id": 8
+  },
+  {
+    "id": 1522,
+    "name": "275036-9050",
+    "brand_id": 8
+  },
+  {
+    "id": 1523,
+    "name": "89666-0Kxxx (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1524,
+    "name": "175822-666 r",
+    "brand_id": 8
+  },
+  {
+    "id": 1525,
+    "name": "275036-9170",
+    "brand_id": 8
+  },
+  {
+    "id": 1526,
+    "name": "275036-8140",
+    "brand_id": 8
+  },
+  {
+    "id": 1527,
+    "name": "275136-1910",
+    "brand_id": 8
+  },
+  {
+    "id": 1528,
+    "name": "275036-1910",
+    "brand_id": 8
+  },
+  {
+    "id": 1529,
+    "name": "275036-5810",
+    "brand_id": 8
+  },
+  {
+    "id": 1530,
+    "name": "275036-0360",
+    "brand_id": 8
+  },
+  {
+    "id": 1531,
+    "name": "175822-666 (K-Line)",
+    "brand_id": 8
+  },
+  {
+    "id": 1532,
+    "name": "275922-532",
+    "brand_id": 8
+  },
+  {
+    "id": 1533,
+    "name": "175822-887 (K-Line)",
+    "brand_id": 8
+  },
+  {
+    "id": 1534,
+    "name": "175822-887 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1535,
+    "name": "275036-7581",
+    "brand_id": 8
+  },
+  {
+    "id": 1536,
+    "name": "211941-37910830 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1537,
+    "name": "275136-2010 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1538,
+    "name": "275922-001",
+    "brand_id": 8
+  },
+  {
+    "id": 1539,
+    "name": "275922-001 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1540,
+    "name": "275922-428",
+    "brand_id": 8
+  },
+  {
+    "id": 1541,
+    "name": "275922-092 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1542,
+    "name": "275036-3160 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1543,
+    "name": "275036-5920",
+    "brand_id": 8
+  },
+  {
+    "id": 1544,
+    "name": "275036-5130 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1545,
+    "name": "175822-666",
+    "brand_id": 8
+  },
+  {
+    "id": 1546,
+    "name": "275036-7400 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1547,
+    "name": "275036-7780 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1548,
+    "name": "275922-856",
+    "brand_id": 8
+  },
+  {
+    "id": 1549,
+    "name": "275922-022",
+    "brand_id": 8
+  },
+  {
+    "id": 1550,
+    "name": "275922-500",
+    "brand_id": 8
+  },
+  {
+    "id": 1551,
+    "name": "275036-6941",
+    "brand_id": 8
+  },
+  {
+    "id": 1552,
+    "name": "175822-737 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1553,
+    "name": "275036-0360 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1554,
+    "name": "275036-3560",
+    "brand_id": 8
+  },
+  {
+    "id": 1555,
+    "name": "211941-45900930",
+    "brand_id": 8
+  },
+  {
+    "id": 1556,
+    "name": "275036-1150",
+    "brand_id": 8
+  },
+  {
+    "id": 1557,
+    "name": "MG1CS088",
+    "brand_id": 1
+  },
+  {
+    "id": 1558,
+    "name": "Simos 10.13A",
+    "brand_id": 5
+  },
+  {
+    "id": 1559,
+    "name": "ME7.1.1 CAN",
+    "brand_id": 1
+  },
+  {
+    "id": 1560,
+    "name": "Simos 10.13",
+    "brand_id": 5
+  },
+  {
+    "id": 1561,
+    "name": "9GV",
+    "brand_id": 2
+  },
+  {
+    "id": 1562,
+    "name": "IAW 4BV",
+    "brand_id": 2
+  },
+  {
+    "id": 1563,
+    "name": "IAW 4GV",
+    "brand_id": 2
+  },
+  {
+    "id": 1564,
+    "name": "IAW 4AVP",
+    "brand_id": 2
+  },
+  {
+    "id": 1565,
+    "name": "IAW 4SV",
+    "brand_id": 2
+  },
+  {
+    "id": 1566,
+    "name": "Simos 10.11",
+    "brand_id": 5
+  },
+  {
+    "id": 1567,
+    "name": "Simos 10.10",
+    "brand_id": 5
+  },
+  {
+    "id": 1568,
+    "name": "IAW 4CW",
+    "brand_id": 2
+  },
+  {
+    "id": 1569,
+    "name": "EDC16U1 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 1570,
+    "name": "IAW 4TV",
+    "brand_id": 2
+  },
+  {
+    "id": 1571,
+    "name": "Simos 10.20",
+    "brand_id": 5
+  },
+  {
+    "id": 1572,
+    "name": "7GV",
+    "brand_id": 2
+  },
+  {
+    "id": 1573,
+    "name": "EDC16U2.1 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 1574,
+    "name": "EDC16U31 M&S",
+    "brand_id": 1
+  },
+  {
+    "id": 1575,
+    "name": "ME7.0.1",
+    "brand_id": 1
+  },
+  {
+    "id": 1576,
+    "name": "LA.2",
+    "brand_id": 8
+  },
+  {
+    "id": 1577,
+    "name": "079700-9133",
+    "brand_id": 8
+  },
+  {
+    "id": 1578,
+    "name": "MB279700-96xx",
+    "brand_id": 27
+  },
+  {
+    "id": 1579,
+    "name": "HP.2",
+    "brand_id": 8
+  },
+  {
+    "id": 1580,
+    "name": "MB279700-9500",
+    "brand_id": 8
+  },
+  {
+    "id": 1581,
+    "name": "MB279700-91xx",
+    "brand_id": 8
+  },
+  {
+    "id": 1582,
+    "name": "EMS2",
+    "brand_id": 3
+  },
+  {
+    "id": 1583,
+    "name": "MB279700-95xx",
+    "brand_id": 8
+  },
+  {
+    "id": 1584,
+    "name": "CM554",
+    "brand_id": 16
+  },
+  {
+    "id": 1585,
+    "name": "112500-1240",
+    "brand_id": 8
+  },
+  {
+    "id": 1586,
+    "name": "112500-1131",
+    "brand_id": 8
+  },
+  {
+    "id": 1587,
+    "name": "CM850",
+    "brand_id": 16
+  },
+  {
+    "id": 1588,
+    "name": "MD1CE101",
+    "brand_id": 1
+  },
+  {
+    "id": 1589,
+    "name": "L4.3",
+    "brand_id": 23
+  },
+  {
+    "id": 1590,
+    "name": "4HK1",
+    "brand_id": 23
+  },
+  {
+    "id": 1591,
+    "name": "EDC7C1/C2",
+    "brand_id": 1
+  },
+  {
+    "id": 1592,
+    "name": "MD1CS069",
+    "brand_id": 1
+  },
+  {
+    "id": 1593,
+    "name": "1851862-30",
+    "brand_id": 28
+  },
+  {
+    "id": 1594,
+    "name": "CM570",
+    "brand_id": 16
+  },
+  {
+    "id": 1595,
+    "name": "275700-4890",
+    "brand_id": 8
+  },
+  {
+    "id": 1596,
+    "name": "A5E2V2I1",
+    "brand_id": 29
+  },
+  {
+    "id": 1597,
+    "name": "L12",
+    "brand_id": 30
+  },
+  {
+    "id": 1598,
+    "name": "L4",
+    "brand_id": 30
+  },
+  {
+    "id": 1599,
+    "name": "L16",
+    "brand_id": 30
+  },
+  {
+    "id": 1600,
+    "name": "L14/L15",
+    "brand_id": 30
+  },
+  {
+    "id": 1601,
+    "name": "L21-L22-L23",
+    "brand_id": 30
+  },
+  {
+    "id": 1602,
+    "name": "L14",
+    "brand_id": 30
+  },
+  {
+    "id": 1603,
+    "name": "N/A",
+    "brand_id": 11
+  },
+  {
+    "id": 1604,
+    "name": "MCM2.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1605,
+    "name": "Adem IV",
+    "brand_id": 29
+  },
+  {
+    "id": 1606,
+    "name": "EMR2",
+    "brand_id": 31
+  },
+  {
+    "id": 1607,
+    "name": "EDC17CV41 �",
+    "brand_id": 1
+  },
+  {
+    "id": 1608,
+    "name": "SCR 9-34",
+    "brand_id": 32
+  },
+  {
+    "id": 1609,
+    "name": "Gearbox",
+    "brand_id": 33
+  },
+  {
+    "id": 1610,
+    "name": "N/A",
+    "brand_id": 31
+  },
+  {
+    "id": 1611,
+    "name": "OM904LA.V/3-02",
+    "brand_id": 11
+  },
+  {
+    "id": 1612,
+    "name": "SH7059",
+    "brand_id": 23
+  },
+  {
+    "id": 1613,
+    "name": "CM2250",
+    "brand_id": 5
+  },
+  {
+    "id": 1614,
+    "name": "DCU17CV51",
+    "brand_id": 1
+  },
+  {
+    "id": 1615,
+    "name": "DCM3.3",
+    "brand_id": 4
+  },
+  {
+    "id": 1616,
+    "name": "DCM2.7",
+    "brand_id": 4
+  },
+  {
+    "id": 1617,
+    "name": "CM2350A",
+    "brand_id": 5
+  },
+  {
+    "id": 1618,
+    "name": "L6",
+    "brand_id": 30
+  },
+  {
+    "id": 1619,
+    "name": "L9-L11",
+    "brand_id": 30
+  },
+  {
+    "id": 1620,
+    "name": "L15",
+    "brand_id": 30
+  },
+  {
+    "id": 1621,
+    "name": "L33",
+    "brand_id": 30
+  },
+  {
+    "id": 1622,
+    "name": "L3",
+    "brand_id": 30
+  },
+  {
+    "id": 1623,
+    "name": "L11",
+    "brand_id": 30
+  },
+  {
+    "id": 1624,
+    "name": "UIC2",
+    "brand_id": 3
+  },
+  {
+    "id": 1625,
+    "name": "L21",
+    "brand_id": 30
+  },
+  {
+    "id": 1626,
+    "name": "275700-1201",
+    "brand_id": 8
+  },
+  {
+    "id": 1627,
+    "name": "275700-3411",
+    "brand_id": 8
+  },
+  {
+    "id": 1628,
+    "name": "1JXXX-59052",
+    "brand_id": 8
+  },
+  {
+    "id": 1629,
+    "name": "1J520-59051",
+    "brand_id": 8
+  },
+  {
+    "id": 1630,
+    "name": "276022-0030",
+    "brand_id": 8
+  },
+  {
+    "id": 1631,
+    "name": "275800-7221",
+    "brand_id": 8
+  },
+  {
+    "id": 1632,
+    "name": "1JXXX-59053",
+    "brand_id": 8
+  },
+  {
+    "id": 1633,
+    "name": "275822-9730",
+    "brand_id": 8
+  },
+  {
+    "id": 1634,
+    "name": "Perkins",
+    "brand_id": 16
+  },
+  {
+    "id": 1635,
+    "name": "MB275700-2753",
+    "brand_id": 8
+  },
+  {
+    "id": 1636,
+    "name": "MD1CC878",
+    "brand_id": 1
+  },
+  {
+    "id": 1637,
+    "name": "SCR 36-20",
+    "brand_id": 32
+  },
+  {
+    "id": 1638,
+    "name": "EDC7C2",
+    "brand_id": 1
+  },
+  {
+    "id": 1639,
+    "name": "CM2250",
+    "brand_id": 16
+  },
+  {
+    "id": 1640,
+    "name": "211841-3581A830",
+    "brand_id": 34
+  },
+  {
+    "id": 1641,
+    "name": "EEM2",
+    "brand_id": 35
+  },
+  {
+    "id": 1642,
+    "name": "EMS2.4",
+    "brand_id": 36
+  },
+  {
+    "id": 1643,
+    "name": "CM2220A",
+    "brand_id": 5
+  },
+  {
+    "id": 1644,
+    "name": "CM2220",
+    "brand_id": 5
+  },
+  {
+    "id": 1645,
+    "name": "CM2150E",
+    "brand_id": 5
+  },
+  {
+    "id": 1646,
+    "name": "ACM2.1",
+    "brand_id": 5
+  },
+  {
+    "id": 1647,
+    "name": "CM2150E",
+    "brand_id": 16
+  },
+  {
+    "id": 1648,
+    "name": "ECSDC3/EDC7",
+    "brand_id": 1
+  },
+  {
+    "id": 1649,
+    "name": "DMCI",
+    "brand_id": 4
+  },
+  {
+    "id": 1650,
+    "name": "DCU15",
+    "brand_id": 1
+  },
+  {
+    "id": 1651,
+    "name": "ETC3",
+    "brand_id": 4
+  },
+  {
+    "id": 1652,
+    "name": "CM2220C",
+    "brand_id": 5
+  },
+  {
+    "id": 1653,
+    "name": "DCU17",
+    "brand_id": 1
+  },
+  {
+    "id": 1654,
+    "name": "89661-E0130",
+    "brand_id": 8
+  },
+  {
+    "id": 1655,
+    "name": "EDC7U31",
+    "brand_id": 1
+  },
+  {
+    "id": 1656,
+    "name": "275922-320 (CAN)",
+    "brand_id": 8
+  },
+  {
+    "id": 1657,
+    "name": "DCU17HD01",
+    "brand_id": 1
+  },
+  {
+    "id": 1658,
+    "name": "112500-1017",
+    "brand_id": 8
+  },
+  {
+    "id": 1659,
+    "name": "895xx",
+    "brand_id": 8
+  },
+  {
+    "id": 1660,
+    "name": "896xx",
+    "brand_id": 8
+  },
+  {
+    "id": 1661,
+    "name": "39100-48010",
+    "brand_id": 8
+  },
+  {
+    "id": 1662,
+    "name": "DCMI",
+    "brand_id": 4
+  },
+  {
+    "id": 1663,
+    "name": "275700-4873",
+    "brand_id": 8
+  },
+  {
+    "id": 1664,
+    "name": "112500-0276",
+    "brand_id": 8
+  },
+  {
+    "id": 1665,
+    "name": "3896-002",
+    "brand_id": 37
+  },
+  {
+    "id": 1666,
+    "name": "6HK1",
+    "brand_id": 23
+  },
+  {
+    "id": 1667,
+    "name": "MD1CE108",
+    "brand_id": 1
+  },
+  {
+    "id": 1668,
+    "name": "275700-7082",
+    "brand_id": 8
+  },
+  {
+    "id": 1669,
+    "name": "275800-2314",
+    "brand_id": 8
+  },
+  {
+    "id": 1670,
+    "name": "4JJ1",
+    "brand_id": 23
+  },
+  {
+    "id": 1671,
+    "name": "IAW 5SF.L0",
+    "brand_id": 2
+  },
+  {
+    "id": 1672,
+    "name": "EDC7UC31-12.10",
+    "brand_id": 1
+  },
+  {
+    "id": 1673,
+    "name": "CM871",
+    "brand_id": 16
+  },
+  {
+    "id": 1674,
+    "name": "ACM",
+    "brand_id": 5
+  },
+  {
+    "id": 1675,
+    "name": "EMS2",
+    "brand_id": 36
+  },
+  {
+    "id": 1676,
+    "name": "CM554",
+    "brand_id": 38
+  },
+  {
+    "id": 1677,
+    "name": "MD1CE100",
+    "brand_id": 1
+  },
+  {
+    "id": 1678,
+    "name": "Euro5",
+    "brand_id": 11
+  },
+  {
+    "id": 1679,
+    "name": "ACM2.1",
+    "brand_id": 11
+  },
+  {
+    "id": 1680,
+    "name": "DDE6",
+    "brand_id": 11
+  },
+  {
+    "id": 1681,
+    "name": "275800-7330",
+    "brand_id": 8
+  },
+  {
+    "id": 1682,
+    "name": "112500-0370",
+    "brand_id": 8
+  },
+  {
+    "id": 1683,
+    "name": "275800-4742",
+    "brand_id": 8
+  },
+  {
+    "id": 1684,
+    "name": "CM2150D",
+    "brand_id": 16
+  },
+  {
+    "id": 1685,
+    "name": "Adem III",
+    "brand_id": 29
+  },
+  {
+    "id": 1686,
+    "name": "CM2350",
+    "brand_id": 5
+  },
+  {
+    "id": 1687,
+    "name": "CM875",
+    "brand_id": 16
+  },
+  {
+    "id": 1688,
+    "name": "CM876",
+    "brand_id": 16
+  },
+  {
+    "id": 1689,
+    "name": "MX-11",
+    "brand_id": 4
+  },
+  {
+    "id": 1690,
+    "name": "Adem IV+",
+    "brand_id": 29
+  },
+  {
+    "id": 1691,
+    "name": "CM870",
+    "brand_id": 16
+  },
+  {
+    "id": 1692,
+    "name": "MX-13",
+    "brand_id": 4
+  },
+  {
+    "id": 1693,
+    "name": "CM570",
+    "brand_id": 38
+  },
+  {
+    "id": 1694,
+    "name": "EMS2.3",
+    "brand_id": 36
+  },
+  {
+    "id": 1695,
+    "name": "EMS2.2 Gen2",
+    "brand_id": 36
+  },
+  {
+    "id": 1696,
+    "name": "EMS2 E5",
+    "brand_id": 36
+  },
+  {
+    "id": 1697,
+    "name": "EMS S6",
+    "brand_id": 16
+  },
+  {
+    "id": 1698,
+    "name": "EMS S7",
+    "brand_id": 16
+  },
+  {
+    "id": 1699,
+    "name": "EMS S8",
+    "brand_id": 5
+  },
+  {
+    "id": 1700,
+    "name": "175800-9850",
+    "brand_id": 8
+  },
+  {
+    "id": 1701,
+    "name": "B/C/D",
+    "brand_id": 39
+  },
+  {
+    "id": 1702,
+    "name": "EMS2 DXI",
+    "brand_id": 36
+  }
+]

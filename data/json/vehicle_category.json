@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Bike"
+  },
+  {
+    "id": 2,
+    "name": "Boat"
+  },
+  {
+    "id": 3,
+    "name": "Car"
+  },
+  {
+    "id": 4,
+    "name": "Tractor"
+  },
+  {
+    "id": 5,
+    "name": "Truck"
+  }
+]
